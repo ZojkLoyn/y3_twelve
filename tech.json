@@ -1,0 +1,25 @@
+{
+    "tech2unit_affects": [
+        {
+            "__tuple__": true, 
+            "items": [
+                201385996, 
+                []
+            ]
+        }
+    ], 
+    "tech2unit_researches": [
+        {
+            "__tuple__": true, 
+            "items": [
+                201388188, 
+                []
+            ]
+        }
+    ], 
+    "techs": [
+        201364507, 
+        201385996, 
+        201388188
+    ]
+}
