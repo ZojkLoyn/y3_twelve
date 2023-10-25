@@ -277,7 +277,7 @@
             "p_trigger_id": null, 
             "trigger_id": 344707073, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "2039234562": {
             "action": [
@@ -3006,7 +3006,7 @@
             }, 
             "trigger_id": 2039234562, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "2078056452": {
             "action": [

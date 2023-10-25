@@ -735,7 +735,7 @@
             "p_trigger_id": null, 
             "trigger_id": 878268418, 
             "trigger_name": "trigger_2", 
-            "valid": true
+            "valid": false
         }, 
         "995033089": {
             "action": [

@@ -1711,7 +1711,7 @@
             "p_trigger_id": false, 
             "trigger_id": 1328414721, 
             "trigger_name": "AbilityPercastStarts", 
-            "valid": true
+            "valid": false
         }, 
         "2083418115": {
             "action": [
@@ -2186,7 +2186,7 @@
             "p_trigger_id": false, 
             "trigger_id": 2083418115, 
             "trigger_name": "AbilityPercastEnds", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

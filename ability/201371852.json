@@ -674,7 +674,7 @@
             "p_trigger_id": 1619664897, 
             "trigger_id": 1066057730, 
             "trigger_name": "NewTrigger", 
-            "valid": true
+            "valid": false
         }, 
         "1619664897": {
             "action": [
@@ -719,7 +719,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1619664897, 
             "trigger_name": "AbilityGained", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

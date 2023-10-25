@@ -82,7 +82,7 @@
             "p_trigger_id": null, 
             "trigger_id": 847253505, 
             "trigger_name": "Gain Buff", 
-            "valid": true
+            "valid": false
         }, 
         "1289887746": {
             "action": [
@@ -165,7 +165,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1289887746, 
             "trigger_name": "Lose Buff", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

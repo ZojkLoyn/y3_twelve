@@ -128,7 +128,7 @@
             "p_trigger_id": null, 
             "trigger_id": 265969665, 
             "trigger_name": "AbilityPercastEnds", 
-            "valid": true
+            "valid": false
         }, 
         "1080610819": {
             "action": [

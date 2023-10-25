@@ -643,7 +643,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1564385282, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
-            "valid": true
+            "valid": false
         }, 
         "2031706113": {
             "action": [
@@ -1510,7 +1510,7 @@
             "p_trigger_id": null, 
             "trigger_id": 2031706113, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

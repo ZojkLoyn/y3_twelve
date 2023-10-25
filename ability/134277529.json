@@ -1332,7 +1332,7 @@
             "p_trigger_id": null, 
             "trigger_id": 550764546, 
             "trigger_name": "trigger_2", 
-            "valid": true
+            "valid": false
         }, 
         "1376571393": {
             "action": [

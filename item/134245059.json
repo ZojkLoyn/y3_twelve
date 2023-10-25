@@ -160,7 +160,7 @@
             }, 
             "trigger_id": 127832073, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "429346822": {
             "action": [
@@ -266,7 +266,7 @@
             "p_trigger_id": null, 
             "trigger_id": 767692801, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "1218334729": {
             "action": [
@@ -400,7 +400,7 @@
             }, 
             "trigger_id": 1218334729, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668_4", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

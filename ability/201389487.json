@@ -425,7 +425,7 @@
             "p_trigger_id": null, 
             "trigger_id": 572370945, 
             "trigger_name": "trigger_3", 
-            "valid": true
+            "valid": false
         }, 
         "774381570": {
             "action": [
@@ -820,7 +820,7 @@
             "p_trigger_id": null, 
             "trigger_id": 774381570, 
             "trigger_name": "trigger_2", 
-            "valid": true
+            "valid": false
         }, 
         "1764290563": {
             "action": [
@@ -1770,7 +1770,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1881780228, 
             "trigger_name": "trigger_4", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

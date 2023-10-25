@@ -604,7 +604,7 @@
             "p_trigger_id": null, 
             "trigger_id": 100106241, 
             "trigger_name": "AbilityPercastEnds", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

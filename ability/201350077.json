@@ -327,7 +327,7 @@
             "p_trigger_id": null, 
             "trigger_id": 855269377, 
             "trigger_name": "The_new_trigger", 
-            "valid": true
+            "valid": false
         }, 
         "1476026370": {
             "action": [
@@ -1515,7 +1515,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1476026370, 
             "trigger_name": "The_new_trigger_2", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

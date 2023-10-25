@@ -202,7 +202,7 @@
             "p_trigger_id": null, 
             "trigger_id": 2051772418, 
             "trigger_name": "Action", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

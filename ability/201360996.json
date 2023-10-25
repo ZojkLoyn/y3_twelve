@@ -111,7 +111,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1757265921, 
             "trigger_name": "AbilityGained", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

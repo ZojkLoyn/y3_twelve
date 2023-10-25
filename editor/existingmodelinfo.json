@@ -2,6 +2,38 @@
  {
   "__tuple__": true, 
   "items": [
+   1, 
+   "\u653e\u7f6e\u4f4d", 
+   2
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   2, 
+   "\u653e\u7f6e\u4f4d", 
+   2
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   3, 
+   "\u653e\u7f6e\u4f4d", 
+   2
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   4, 
+   "\u653e\u7f6e\u4f4d", 
+   2
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
    9999, 
    "\u521d\u59cb\u955c\u5934", 
    32768
