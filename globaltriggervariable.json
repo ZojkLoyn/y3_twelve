@@ -2,10 +2,23 @@
     "local_variable": {}, 
     "variable_comments": {}, 
     "variable_dict": {
-        "INTEGER": {}, 
+        "INTEGER": {
+            "\u5f53\u524d\u751f\u8096\u6a21\u5f0f": 0
+        }, 
+        "NEW_TIMER": {}, 
         "UNIT_ENTITY": {}, 
         "UNIT_NAME": {}
     }, 
-    "variable_group_info": [], 
-    "variable_length_dict": {}
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5f53\u524d\u751f\u8096\u6a21\u5f0f", 
+                "\u5f53\u524d\u751f\u8096\u6a21\u5f0f"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "\u5f53\u524d\u751f\u8096\u6a21\u5f0f": 0
+    }
 }
