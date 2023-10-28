@@ -2,6 +2,10 @@
     "local_variable": {}, 
     "variable_comments": {}, 
     "variable_dict": {
+        "DYNAMIC_TRIGGER_INSTANCE": {
+            "\u5f53\u524d": 0, 
+            "\u8d44\u6e90\u8fdb\u5ea6\u6761": 0
+        }, 
         "FLOAT": {}, 
         "INTEGER": {
             "\u5f53\u524d\u751f\u8096\u6a21\u5f0f": 0, 
@@ -55,6 +59,20 @@
                         "\u654c\u65b9", 
                         "\u654c\u65b9"
                     ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u5f53\u524d", 
+                        "\u5f53\u524d"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u8d44\u6e90\u8fdb\u5ea6\u6761", 
+                        "\u8d44\u6e90\u8fdb\u5ea6\u6761"
+                    ]
                 }
             ], 
             "key": "cMRowHVpEe6EjgD-jj8s-C", 
@@ -62,10 +80,12 @@
         }
     ], 
     "variable_length_dict": {
+        "\u5f53\u524d": 0, 
         "\u5f53\u524d\u751f\u8096\u6a21\u5f0f": 0, 
         "\u654c\u65b9": 10, 
         "\u8d44\u6e90": 0, 
         "\u8d44\u6e90\u4e0a\u9650": 0, 
-        "\u8d44\u6e90\u65f6\u95f4": 0
+        "\u8d44\u6e90\u65f6\u95f4": 0, 
+        "\u8d44\u6e90\u8fdb\u5ea6\u6761": 0
     }
 }
