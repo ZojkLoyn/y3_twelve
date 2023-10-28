@@ -67,6 +67,26 @@
             "set_camera_conf_realtime": null, 
             "type": 32768, 
             "yaw": 0.0
+        }, 
+        "10002": {
+            "camera_dist": 71.99997362922721, 
+            "far": 1000.0, 
+            "focus_max_dist": null, 
+            "focus_min_dist": null, 
+            "focus_x": -1.9174786694016845e-15, 
+            "focus_y": 23.21305274963379, 
+            "focus_z": 15.657401084899902, 
+            "fov": 35.0, 
+            "fov_disabled": null, 
+            "id": 10002, 
+            "is_origin_cam": false, 
+            "is_ortho": null, 
+            "name": "\u955c\u5934", 
+            "pitch": 0.9773842390772703, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": null, 
+            "type": 32768, 
+            "yaw": 6.283185307179586
         }
     }, 
     "65536": {}, 
