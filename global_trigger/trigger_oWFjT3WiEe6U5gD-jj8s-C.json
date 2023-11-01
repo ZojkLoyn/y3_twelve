@@ -802,14 +802,14 @@
                                             "arg_type": 100002, 
                                             "args_list": [
                                                 {
-                                                    "arg_type": 100240, 
-                                                    "args_list": [
-                                                        "\u8868\u683c\u7d22\u5f15\u4f4d\u7f6e"
-                                                    ], 
-                                                    "sub_type": 1
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "\u6e05\u573a\u5224\u5b9a\u540e\u7d22\u5f15\u4f4d\u7f6e"
+                                                    ]
                                                 }
                                             ], 
-                                            "sub_type": "GET_CUS_EVENT_PARAM"
+                                            "sub_type": 6
                                         }, 
                                         {
                                             "arg_type": 100003, 
@@ -838,14 +838,14 @@
                                             "arg_type": 100002, 
                                             "args_list": [
                                                 {
-                                                    "arg_type": 100240, 
-                                                    "args_list": [
-                                                        "\u8868\u683c\u7d22\u5f15\u4f4d\u7f6e"
-                                                    ], 
-                                                    "sub_type": 1
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "\u6e05\u573a\u5224\u5b9a\u540e\u7d22\u5f15\u4f4d\u7f6e"
+                                                    ]
                                                 }
                                             ], 
-                                            "sub_type": "GET_CUS_EVENT_PARAM"
+                                            "sub_type": 6
                                         }, 
                                         {
                                             "arg_type": 100003, 
@@ -876,14 +876,14 @@
                                             "arg_type": 100002, 
                                             "args_list": [
                                                 {
-                                                    "arg_type": 100240, 
-                                                    "args_list": [
-                                                        "\u8868\u683c\u7d22\u5f15\u4f4d\u7f6e"
-                                                    ], 
-                                                    "sub_type": 1
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "\u6e05\u573a\u5224\u5b9a\u540e\u7d22\u5f15\u4f4d\u7f6e"
+                                                    ]
                                                 }
                                             ], 
-                                            "sub_type": "GET_CUS_EVENT_PARAM"
+                                            "sub_type": 6
                                         }, 
                                         {
                                             "arg_type": 100003, 
@@ -940,14 +940,20 @@
                                             "arg_type": 100002, 
                                             "args_list": [
                                                 {
-                                                    "__tuple__": true, 
-                                                    "items": [
-                                                        "INTEGER", 
-                                                        "\u6e05\u573a\u5224\u5b9a\u540e\u7d22\u5f15\u4f4d\u7f6e"
-                                                    ]
+                                                    "arg_type": 100002, 
+                                                    "args_list": [
+                                                        {
+                                                            "__tuple__": true, 
+                                                            "items": [
+                                                                "INTEGER", 
+                                                                "\u6e05\u573a\u5224\u5b9a\u540e\u7d22\u5f15\u4f4d\u7f6e"
+                                                            ]
+                                                        }
+                                                    ], 
+                                                    "sub_type": 6
                                                 }
                                             ], 
-                                            "sub_type": 6
+                                            "sub_type": "INT_PLUS_ONE"
                                         }
                                     ], 
                                     "bp": false, 
@@ -1123,7 +1129,7 @@
             "p_trigger_id": null, 
             "trigger_id": 852275214, 
             "trigger_name": "\u6e05\u573a\u5224\u5b9a", 
-            "valid": false
+            "valid": true
         }, 
         "1350127621": {
             "action": [
@@ -1833,20 +1839,14 @@
                                             "arg_type": 100002, 
                                             "args_list": [
                                                 {
-                                                    "arg_type": 100002, 
+                                                    "arg_type": 100240, 
                                                     "args_list": [
-                                                        {
-                                                            "arg_type": 100240, 
-                                                            "args_list": [
-                                                                "\u8868\u683c\u7d22\u5f15\u4f4d\u7f6e"
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }
+                                                        "\u8868\u683c\u7d22\u5f15\u4f4d\u7f6e"
                                                     ], 
-                                                    "sub_type": "GET_CUS_EVENT_PARAM"
+                                                    "sub_type": 1
                                                 }
                                             ], 
-                                            "sub_type": "INT_PLUS_ONE"
+                                            "sub_type": "GET_CUS_EVENT_PARAM"
                                         }
                                     ], 
                                     "bp": false, 
