@@ -303,7 +303,7 @@
             "p_trigger_id": false, 
             "trigger_id": 402505729, 
             "trigger_name": "GainBuff", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

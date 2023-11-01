@@ -551,7 +551,7 @@
             "p_trigger_id": null, 
             "trigger_id": 2029694977, 
             "trigger_name": "Gain modifier", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

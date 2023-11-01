@@ -292,7 +292,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1079009284, 
             "trigger_name": "Ability Gained", 
-            "valid": true
+            "valid": false
         }, 
         "1644036097": {
             "action": [
@@ -2405,7 +2405,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1644036097, 
             "trigger_name": "Ability Precast Ends", 
-            "valid": true
+            "valid": false
         }, 
         "1865752579": {
             "action": [

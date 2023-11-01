@@ -981,7 +981,7 @@
             "p_trigger_id": null, 
             "trigger_id": 844705794, 
             "trigger_name": "Ability Preparation Ends", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

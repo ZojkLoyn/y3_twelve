@@ -552,7 +552,7 @@
             }, 
             "trigger_id": 174845954, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "559493123": {
             "action": [
@@ -915,7 +915,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1969844225, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

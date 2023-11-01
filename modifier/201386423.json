@@ -209,7 +209,7 @@
             "p_trigger_id": null, 
             "trigger_id": 2023383041, 
             "trigger_name": "trigger", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

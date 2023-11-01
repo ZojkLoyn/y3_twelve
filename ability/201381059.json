@@ -953,7 +953,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1549705218, 
             "trigger_name": "Ability Precast Ends", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

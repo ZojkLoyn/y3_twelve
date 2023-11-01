@@ -1476,7 +1476,7 @@
             "p_trigger_id": null, 
             "trigger_id": 330096642, 
             "trigger_name": "Abilityprecastends", 
-            "valid": true
+            "valid": false
         }, 
         "1324359683": {
             "action": [
@@ -2114,7 +2114,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1324359683, 
             "trigger_name": "The_new_trigger", 
-            "valid": true
+            "valid": false
         }, 
         "1353388033": {
             "action": [

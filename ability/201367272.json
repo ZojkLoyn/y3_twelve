@@ -515,7 +515,7 @@
             "p_trigger_id": null, 
             "trigger_id": 687095810, 
             "trigger_name": "trigger_2", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

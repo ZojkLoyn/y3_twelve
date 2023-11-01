@@ -2095,7 +2095,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1343148034, 
             "trigger_name": "Action", 
-            "valid": true
+            "valid": false
         }, 
         "1359908865": {
             "action": [
@@ -3093,7 +3093,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1359908865, 
             "trigger_name": "Start", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

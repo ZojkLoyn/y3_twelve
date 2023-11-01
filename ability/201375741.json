@@ -173,7 +173,7 @@
             }, 
             "trigger_id": 2100801539, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "2134319105": {
             "action": [
@@ -218,7 +218,7 @@
             "p_trigger_id": null, 
             "trigger_id": 2134319105, 
             "trigger_name": "Trigger", 
-            "valid": true
+            "valid": false
         }, 
         "2134323202": {
             "action": [

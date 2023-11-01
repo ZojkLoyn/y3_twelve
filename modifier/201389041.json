@@ -174,7 +174,7 @@
             "p_trigger_id": null, 
             "trigger_id": 653209601, 
             "trigger_name": "Modifier Overwritten", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

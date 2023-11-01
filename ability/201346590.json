@@ -1217,7 +1217,7 @@
             "p_trigger_id": null, 
             "trigger_id": 54984706, 
             "trigger_name": "AbilityPerparetionEnds", 
-            "valid": true
+            "valid": false
         }, 
         "1665597441": {
             "action": [

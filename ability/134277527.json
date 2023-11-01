@@ -57,7 +57,7 @@
             "p_trigger_id": null, 
             "trigger_id": 536616962, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
-            "valid": true
+            "valid": false
         }, 
         "1576800257": {
             "action": [
@@ -117,7 +117,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1576800257, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

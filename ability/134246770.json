@@ -1930,7 +1930,7 @@
             "p_trigger_id": null, 
             "trigger_id": 678871041, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "1417568258": {
             "action": [
@@ -2028,7 +2028,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1417568258, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
-            "valid": true
+            "valid": false
         }, 
         "1668689924": {
             "action": [
@@ -2088,7 +2088,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1668689924, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_4", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [

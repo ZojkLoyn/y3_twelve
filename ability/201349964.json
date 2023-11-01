@@ -379,7 +379,7 @@
             "p_trigger_id": null, 
             "trigger_id": 231059458, 
             "trigger_name": "AbilityPrecastEnds", 
-            "valid": true
+            "valid": false
         }, 
         "499490817": {
             "action": [
