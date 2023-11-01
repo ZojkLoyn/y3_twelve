@@ -682,7 +682,7 @@
             "p_trigger_id": null, 
             "trigger_id": 763375624, 
             "trigger_name": "\u8d44\u6e90\u83b7\u53d6\u8fdb\u5ea6\u6761", 
-            "valid": false
+            "valid": true
         }, 
         "1350127621": {
             "action": [
