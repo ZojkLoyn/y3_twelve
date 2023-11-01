@@ -33,15 +33,15 @@
                 null
             ], 
             [
-                "\u7ec8\u70b9\u5224\u5b9a\u533a\u57df", 
-                "int", 
-                "10003", 
+                "\u5224\u5b9a\u533a\u57df", 
+                "model_type", 
+                null, 
                 null
             ], 
             [
-                "\u751f\u547d\u503c", 
-                "int", 
-                "2", 
+                null, 
+                null, 
+                null, 
                 null
             ], 
             [

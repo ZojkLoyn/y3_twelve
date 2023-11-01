@@ -173,7 +173,19 @@
     "is_immediate": true, 
     "is_meele": false, 
     "key": 134250009, 
-    "kv": {}, 
+    "kv": {
+        "\u653e\u7f6e\u5355\u4f4d": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 7, 
+            "key": "\u653e\u7f6e\u5355\u4f4d", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 0, 
+            "type": 4, 
+            "value": 134243357
+        }
+    }, 
     "magicbook_list": {
         "__tuple__": true, 
         "items": []
