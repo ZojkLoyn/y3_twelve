@@ -840,68 +840,6 @@
     "1691049987": {
         "action": [
             {
-                "action_type": "UNIT_RELEASE_COMMAND", 
-                "args_list": [
-                    {
-                        "arg_type": 100006, 
-                        "args_list": [
-                            5
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100216, 
-                        "args_list": [
-                            {
-                                "arg_type": 100024, 
-                                "args_list": [
-                                    10000
-                                ], 
-                                "sub_type": 1
-                            }, 
-                            {
-                                "arg_type": 100051, 
-                                "args_list": [
-                                    2
-                                ], 
-                                "sub_type": 1
-                            }, 
-                            {
-                                "arg_type": 100001, 
-                                "args_list": [
-                                    true
-                                ], 
-                                "sub_type": 1
-                            }
-                        ], 
-                        "op_arg": [
-                            {
-                                "arg_type": 100001, 
-                                "args_list": [
-                                    true
-                                ], 
-                                "sub_type": 1
-                            }, 
-                            {
-                                "arg_type": 100001, 
-                                "args_list": [
-                                    true
-                                ], 
-                                "sub_type": 1
-                            }
-                        ], 
-                        "op_arg_enable": [
-                            false, 
-                            false
-                        ], 
-                        "sub_type": "UNIT_COMMAND_MOVE_ALONG_ROAD"
-                    }
-                ], 
-                "bp": false, 
-                "element_id": 1691049987000005, 
-                "enable": true
-            }, 
-            {
                 "action_type": "NEW_CAMERA_SET_MOVE_NOT_ENABLE", 
                 "args_list": [
                     {
