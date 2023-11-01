@@ -54,11 +54,15 @@
             "\u5728\u573a\u6570\u91cf": 0, 
             "\u5f53\u524d\u751f\u8096\u6a21\u5f0f": 0, 
             "\u6e05\u573a\u5224\u5b9a\u540e\u7d22\u5f15\u4f4d\u7f6e": 0, 
+            "\u751f\u547d\u503c": 0, 
             "\u8d44\u6e90": 0, 
             "\u8d44\u6e90\u4e0a\u9650": 0
         }, 
         "NEW_TIMER": {
             "\u8d44\u6e90\u65f6\u95f4": -1
+        }, 
+        "POLYGON": {
+            "\u7ec8\u70b9\u5224\u5b9a\u533a\u57df": 0
         }, 
         "TABLE": {
             "\u51fa\u602a\u8868": null
@@ -117,6 +121,13 @@
                         {
                             "__tuple__": true, 
                             "items": [
+                                "\u7ec8\u70b9\u5224\u5b9a\u533a\u57df", 
+                                "\u7ec8\u70b9\u5224\u5b9a\u533a\u57df"
+                            ]
+                        }, 
+                        {
+                            "__tuple__": true, 
+                            "items": [
                                 "\u5728\u573a\u6570\u91cf", 
                                 "\u5728\u573a\u6570\u91cf"
                             ]
@@ -134,6 +145,13 @@
                                 "\u6e05\u573a\u5224\u5b9a\u540e\u7d22\u5f15\u4f4d\u7f6e", 
                                 "\u6e05\u573a\u5224\u5b9a\u540e\u7d22\u5f15\u4f4d\u7f6e"
                             ]
+                        }, 
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "\u51fa\u602a\u8868", 
+                                "\u51fa\u602a\u8868"
+                            ]
                         }
                     ], 
                     "key": "ifgzj3c5Ee6olAD-jj8s-I", 
@@ -142,8 +160,8 @@
                 {
                     "__tuple__": true, 
                     "items": [
-                        "\u51fa\u602a\u8868", 
-                        "\u51fa\u602a\u8868"
+                        "\u751f\u547d\u503c", 
+                        "\u751f\u547d\u503c"
                     ]
                 }
             ], 
@@ -165,6 +183,8 @@
         "\u666e\u6717\u514b\u5e38\u91cf\u65f6\u95f4": 0, 
         "\u6e05\u573a\u5224\u5b9a\u540e\u751f\u602a\u65f6\u95f4": 0, 
         "\u6e05\u573a\u5224\u5b9a\u540e\u7d22\u5f15\u4f4d\u7f6e": 0, 
+        "\u751f\u547d\u503c": 0, 
+        "\u7ec8\u70b9\u5224\u5b9a\u533a\u57df": 0, 
         "\u8d44\u6e90": 0, 
         "\u8d44\u6e90\u4e0a\u9650": 0, 
         "\u8d44\u6e90\u65f6\u95f4": 0, 

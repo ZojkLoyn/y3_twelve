@@ -2,8 +2,8 @@
     "group": [], 
     "key": -1, 
     "key_order": {
-        "m8M4nniqEe6bqwD-jj8s-K": 9, 
-        "oWFjT3WiEe6U5gD-jj8s-C": 3
+        "m8M4nniqEe6bqwD-jj8s-K": 8, 
+        "oWFjT3WiEe6U5gD-jj8s-C": 2
     }, 
     "name": "trigger", 
     "sub_trigger": {
@@ -17,46 +17,39 @@
         "1": {
             "__tuple__": true, 
             "items": [
-                1874300930, 
-                "\u65b0\u5efa\u89e6\u53d1\u5668"
-            ]
-        }, 
-        "2": {
-            "__tuple__": true, 
-            "items": [
                 1691049987, 
                 "\u6574\u4f53\u521d\u59cb\u5316"
             ]
         }, 
-        "4": {
+        "3": {
             "__tuple__": true, 
             "items": [
                 1170792454, 
                 "\u65b0\u5efa\u89e6\u53d1\u5668_2"
             ]
         }, 
-        "5": {
+        "4": {
             "__tuple__": true, 
             "items": [
                 1490096135, 
                 "\u65b0\u5efa\u89e6\u53d1\u5668_3"
             ]
         }, 
-        "6": {
+        "5": {
             "__tuple__": true, 
             "items": [
                 26771465, 
                 "\u653e\u7f6e\u5355\u4f4d\u662f\u5426\u88ab\u653e\u7f6e\u4f4d\u7f6e\u7c7b\u578b\u9650\u5236"
             ]
         }, 
-        "7": {
+        "6": {
             "__tuple__": true, 
             "items": [
                 832372749, 
                 "\u751f\u6210\u654c\u5bf9\u65b9"
             ]
         }, 
-        "8": {
+        "7": {
             "__tuple__": true, 
             "items": [
                 255057936, 

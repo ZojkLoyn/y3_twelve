@@ -14,6 +14,150 @@
                             "arg_type": 100022, 
                             "args_list": [
                                 {
+                                    "action_type": "SET_VARIABLE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100030, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "\u751f\u547d\u503c"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100011, 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100240, 
+                                                            "args_list": [
+                                                                "\u8bbe\u7f6e"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "sub_type": "GET_CUS_EVENT_PARAM"
+                                                }, 
+                                                {
+                                                    "arg_type": 100003, 
+                                                    "args_list": [
+                                                        "\u751f\u547d\u503c"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "GET_INTEGER_TABLE_VAR_1D"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 335749124000345, 
+                                    "enable": true
+                                }, 
+                                {
+                                    "action_type": "SET_VARIABLE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100030, 
+                                            "args_list": [
+                                                [
+                                                    "POLYGON", 
+                                                    "\u7ec8\u70b9\u5224\u5b9a\u533a\u57df"
+                                                ]
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100150, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100011, 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100240, 
+                                                            "args_list": [
+                                                                "\u8bbe\u7f6e"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "sub_type": "GET_CUS_EVENT_PARAM"
+                                                }, 
+                                                {
+                                                    "arg_type": 100003, 
+                                                    "args_list": [
+                                                        "\u7ec8\u70b9\u5224\u5b9a\u533a\u57df"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "GET_POLYGON_TABLE_VAR_1D"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 335749124000347, 
+                                    "enable": true
+                                }, 
+                                {
+                                    "action_type": "SET_TRIGGER_ENABLED", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100019, 
+                                            "args_list": [
+                                                1874300930
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100048, 
+                                            "args_list": [
+                                                true
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 335749124000353, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                ""
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 335749124000335, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "STORAGE_BOX", 
+                    "args_list": [
+                        {
+                            "arg_type": 100021, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
                                     "action_type": "SEND_CUSTOM_EVENT", 
                                     "args_list": [
                                         {
@@ -509,6 +653,28 @@
                                     "enable": true
                                 }, 
                                 {
+                                    "action_type": "SET_TRIGGER_ENABLED", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100019, 
+                                            "args_list": [
+                                                2004942860
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100048, 
+                                            "args_list": [
+                                                true
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 335749124000356, 
+                                    "enable": true
+                                }, 
+                                {
                                     "action_type": "SEND_CUSTOM_EVENT", 
                                     "args_list": [
                                         {
@@ -880,47 +1046,122 @@
         "1428410379": {
             "action": [
                 {
-                    "action_type": "SET_TRIGGER_ENABLED", 
+                    "action_type": "STORAGE_BOX", 
                     "args_list": [
                         {
-                            "arg_type": 100019, 
+                            "arg_type": 100021, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
                             "args_list": [
-                                336654346
+                                {
+                                    "action_type": "SET_TRIGGER_ENABLED", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100019, 
+                                            "args_list": [
+                                                336654346
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100048, 
+                                            "args_list": [
+                                                false
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1428410379000073, 
+                                    "enable": true
+                                }, 
+                                {
+                                    "action_type": "SET_TRIGGER_ENABLED", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100019, 
+                                            "args_list": [
+                                                348119056
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100048, 
+                                            "args_list": [
+                                                false
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1428410379000076, 
+                                    "enable": true
+                                }, 
+                                {
+                                    "action_type": "SET_TRIGGER_ENABLED", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100019, 
+                                            "args_list": [
+                                                1874300930
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100048, 
+                                            "args_list": [
+                                                false
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1428410379000079, 
+                                    "enable": true
+                                }, 
+                                {
+                                    "action_type": "SET_TRIGGER_ENABLED", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100019, 
+                                            "args_list": [
+                                                2004942860
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100048, 
+                                            "args_list": [
+                                                false
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1428410379000095, 
+                                    "enable": true
+                                }
                             ], 
                             "sub_type": 1
                         }, 
                         {
-                            "arg_type": 100048, 
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
                             "args_list": [
-                                false
+                                "\u89e6\u53d1"
                             ], 
                             "sub_type": 1
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 1428410379000073, 
-                    "enable": true
-                }, 
-                {
-                    "action_type": "SET_TRIGGER_ENABLED", 
-                    "args_list": [
-                        {
-                            "arg_type": 100019, 
-                            "args_list": [
-                                348119056
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100048, 
-                            "args_list": [
-                                false
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 1428410379000076, 
+                    "element_id": 1428410379000084, 
                     "enable": true
                 }, 
                 {
@@ -1077,6 +1318,13 @@
                         "items": [
                             348119056, 
                             "\u654c\u65b9\u91cd\u751f\u540e\u6062\u590d"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1874300930, 
+                            "\u7ec8\u70b9\u5224\u5b9a"
                         ]
                     }
                 ], 
