@@ -661,7 +661,11 @@
         }, 
         "10": {
             "components": {
-                "__attr": {}, 
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
                 "ability": {
                     "1_1": [
                         201347498, 
@@ -723,8 +727,8 @@
                     "yaw": {
                         "__tuple__": true, 
                         "items": [
-                            0, 
-                            0
+                            6, 
+                            1216271784
                         ]
                     }
                 }

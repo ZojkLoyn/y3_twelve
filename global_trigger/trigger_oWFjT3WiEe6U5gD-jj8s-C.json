@@ -780,6 +780,134 @@
         "852275214": {
             "action": [
                 {
+                    "action_type": "CALL_TRIGGER_FUNC", 
+                    "args_list": [
+                        {
+                            "arg_type": 100177, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100116, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100011, 
+                                            "args_list": [
+                                                [
+                                                    "TABLE", 
+                                                    "\u51fa\u602a\u8868"
+                                                ]
+                                            ], 
+                                            "sub_type": "VARIABLE"
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100240, 
+                                                    "args_list": [
+                                                        "\u8868\u683c\u7d22\u5f15\u4f4d\u7f6e"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "GET_CUS_EVENT_PARAM"
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "\u89d2\u8272"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_UNIT_NAME_TABLE_VAR_ND"
+                                }, 
+                                {
+                                    "arg_type": 100024, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100011, 
+                                            "args_list": [
+                                                [
+                                                    "TABLE", 
+                                                    "\u51fa\u602a\u8868"
+                                                ]
+                                            ], 
+                                            "sub_type": "VARIABLE"
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100240, 
+                                                    "args_list": [
+                                                        "\u8868\u683c\u7d22\u5f15\u4f4d\u7f6e"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "GET_CUS_EVENT_PARAM"
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "\u8def\u7ebf"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_POINT_LIST_TABLE_VAR_ND"
+                                }
+                            ], 
+                            "op_arg": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100011, 
+                                            "args_list": [
+                                                [
+                                                    "TABLE", 
+                                                    "\u51fa\u602a\u8868"
+                                                ]
+                                            ], 
+                                            "sub_type": "VARIABLE"
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100240, 
+                                                    "args_list": [
+                                                        "\u8868\u683c\u7d22\u5f15\u4f4d\u7f6e"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "GET_CUS_EVENT_PARAM"
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "\u7b49\u7ea7"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_INTEGER_TABLE_VAR_ND"
+                                }
+                            ], 
+                            "op_arg_enable": [
+                                true
+                            ], 
+                            "sub_type": "d3ef310f773e11eea40300ff8e3f2cfc"
+                        }
+                    ], 
+                    "bp": false, 
+                    "call_rt_arg_idxes": [], 
+                    "element_id": 2004942860000069, 
+                    "enable": true
+                }, 
+                {
                     "action_type": "RUN_ONCE_TIMER_NO_SAVE", 
                     "args_list": [
                         {
@@ -995,7 +1123,7 @@
             "p_trigger_id": null, 
             "trigger_id": 852275214, 
             "trigger_name": "\u6e05\u573a\u5224\u5b9a", 
-            "valid": true
+            "valid": false
         }, 
         "1350127621": {
             "action": [
@@ -1685,134 +1813,6 @@
                         {
                             "arg_type": 100022, 
                             "args_list": [
-                                {
-                                    "action_type": "CALL_TRIGGER_FUNC", 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100177, 
-                                            "args_list": [
-                                                {
-                                                    "arg_type": 100116, 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100011, 
-                                                            "args_list": [
-                                                                [
-                                                                    "TABLE", 
-                                                                    "\u51fa\u602a\u8868"
-                                                                ]
-                                                            ], 
-                                                            "sub_type": "VARIABLE"
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100002, 
-                                                            "args_list": [
-                                                                {
-                                                                    "arg_type": 100240, 
-                                                                    "args_list": [
-                                                                        "\u8868\u683c\u7d22\u5f15\u4f4d\u7f6e"
-                                                                    ], 
-                                                                    "sub_type": 1
-                                                                }
-                                                            ], 
-                                                            "sub_type": "GET_CUS_EVENT_PARAM"
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100003, 
-                                                            "args_list": [
-                                                                "\u89d2\u8272"
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }
-                                                    ], 
-                                                    "sub_type": "GET_UNIT_NAME_TABLE_VAR_ND"
-                                                }, 
-                                                {
-                                                    "arg_type": 100024, 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100011, 
-                                                            "args_list": [
-                                                                [
-                                                                    "TABLE", 
-                                                                    "\u51fa\u602a\u8868"
-                                                                ]
-                                                            ], 
-                                                            "sub_type": "VARIABLE"
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100002, 
-                                                            "args_list": [
-                                                                {
-                                                                    "arg_type": 100240, 
-                                                                    "args_list": [
-                                                                        "\u8868\u683c\u7d22\u5f15\u4f4d\u7f6e"
-                                                                    ], 
-                                                                    "sub_type": 1
-                                                                }
-                                                            ], 
-                                                            "sub_type": "GET_CUS_EVENT_PARAM"
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100003, 
-                                                            "args_list": [
-                                                                "\u8def\u7ebf"
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }
-                                                    ], 
-                                                    "sub_type": "GET_POINT_LIST_TABLE_VAR_ND"
-                                                }
-                                            ], 
-                                            "op_arg": [
-                                                {
-                                                    "arg_type": 100002, 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100011, 
-                                                            "args_list": [
-                                                                [
-                                                                    "TABLE", 
-                                                                    "\u51fa\u602a\u8868"
-                                                                ]
-                                                            ], 
-                                                            "sub_type": "VARIABLE"
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100002, 
-                                                            "args_list": [
-                                                                {
-                                                                    "arg_type": 100240, 
-                                                                    "args_list": [
-                                                                        "\u8868\u683c\u7d22\u5f15\u4f4d\u7f6e"
-                                                                    ], 
-                                                                    "sub_type": 1
-                                                                }
-                                                            ], 
-                                                            "sub_type": "GET_CUS_EVENT_PARAM"
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100003, 
-                                                            "args_list": [
-                                                                "\u7b49\u7ea7"
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }
-                                                    ], 
-                                                    "sub_type": "GET_INTEGER_TABLE_VAR_ND"
-                                                }
-                                            ], 
-                                            "op_arg_enable": [
-                                                true
-                                            ], 
-                                            "sub_type": "d3ef310f773e11eea40300ff8e3f2cfc"
-                                        }
-                                    ], 
-                                    "bp": false, 
-                                    "call_rt_arg_idxes": [], 
-                                    "element_id": 2004942860000069, 
-                                    "enable": true
-                                }, 
                                 {
                                     "action_type": "SET_VARIABLE", 
                                     "args_list": [

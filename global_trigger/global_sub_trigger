@@ -383,6 +383,77 @@
         "trigger_name": "\u653e\u7f6e\u5355\u4f4d\u662f\u5426\u88ab\u653e\u7f6e\u4f4d\u7f6e\u7c7b\u578b\u9650\u5236", 
         "valid": true
     }, 
+    "255057936": {
+        "action": [
+            {
+                "action_type": "KILL_UNIT", 
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [], 
+                        "sub_type": "GET_UNIT_FROM_EVENT"
+                    }, 
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [], 
+                        "sub_type": "NONE_UNIT"
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 255057936000016, 
+                "enable": true
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            {
+                                "arg_type": 100006, 
+                                "args_list": [], 
+                                "sub_type": "GET_UNIT_FROM_EVENT"
+                            }
+                        ], 
+                        "sub_type": "OWNER_PLAYER"
+                    }, 
+                    {
+                        "arg_type": 100035, 
+                        "args_list": [
+                            "=="
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            31
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "PLAYER_COMPARE", 
+                "element_id": 255057936000010, 
+                "enable": true
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [], 
+                "element_id": 255057936000001, 
+                "enable": true, 
+                "event_type": "SELECT_UNIT_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "trigger_id": 255057936, 
+        "trigger_name": "\u653e\u7f6e_3", 
+        "valid": true
+    }, 
     "832372749": {
         "action": [
             {
