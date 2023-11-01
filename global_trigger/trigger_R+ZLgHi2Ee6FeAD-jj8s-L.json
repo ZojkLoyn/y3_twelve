@@ -1,0 +1,126 @@
+{
+    "trigger_dict": {
+        "268058641": {
+            "action": [
+                {
+                    "action_type": "SEND_CUSTOM_EVENT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100238, 
+                            "args_list": [
+                                1575353086
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                -1
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 268058641000005, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                12
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 268058641000002, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+                }
+            ], 
+            "group_id": 0, 
+            "p_trigger_id": null, 
+            "trigger_id": 268058641, 
+            "trigger_name": "-", 
+            "valid": true
+        }, 
+        "553558034": {
+            "action": [
+                {
+                    "action_type": "SEND_CUSTOM_EVENT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100238, 
+                            "args_list": [
+                                1575353086
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 553558034000002, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                2
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 553558034000001, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+                }
+            ], 
+            "group_id": "R+ZLgHi2Ee6FeAD-jj8s-L", 
+            "p_trigger_id": null, 
+            "trigger_id": 553558034, 
+            "trigger_name": "1", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    268058641, 
+                    "-"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    553558034, 
+                    "1"
+                ]
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "R+ZLgHi2Ee6FeAD-jj8s-L", 
+        "name": "debug\u6a21\u5f0f\u5207\u6362"
+    }
+}

@@ -34,20 +34,12 @@
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        {
-                                            "arg_type": 100014, 
-                                            "args_list": [], 
-                                            "sub_type": "CUR_ABILITY"
-                                        }, 
-                                        {
-                                            "arg_type": 100003, 
-                                            "args_list": [
-                                                "\u653e\u7f6e\u5355\u4f4d"
-                                            ], 
-                                            "sub_type": 1
-                                        }
+                                        [
+                                            "UNIT_NAME", 
+                                            "\u653e\u7f6e\u5355\u4f4d"
+                                        ]
                                     ], 
-                                    "sub_type": "GET_UNIT_NAME_KV"
+                                    "sub_type": 2
                                 }, 
                                 {
                                     "arg_type": 100004, 
@@ -196,20 +188,12 @@
                                 {
                                     "arg_type": 100116, 
                                     "args_list": [
-                                        {
-                                            "arg_type": 100014, 
-                                            "args_list": [], 
-                                            "sub_type": "CUR_ABILITY"
-                                        }, 
-                                        {
-                                            "arg_type": 100003, 
-                                            "args_list": [
-                                                "\u653e\u7f6e\u5355\u4f4d"
-                                            ], 
-                                            "sub_type": 1
-                                        }
+                                        [
+                                            "UNIT_NAME", 
+                                            "\u653e\u7f6e\u5355\u4f4d"
+                                        ]
                                     ], 
-                                    "sub_type": "GET_UNIT_NAME_KV"
+                                    "sub_type": 2
                                 }, 
                                 {
                                     "arg_type": 100116, 
