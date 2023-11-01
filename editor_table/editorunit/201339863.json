@@ -79,10 +79,10 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "common_atk": {
-        "__tuple__": true, 
-        "items": []
-    }, 
+    "common_atk": [
+        201385536, 
+        0
+    ], 
     "common_atk_type": 2, 
     "copper_coin": 100.0, 
     "critical_chance": 0, 
