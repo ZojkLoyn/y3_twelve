@@ -8,21 +8,37 @@
     2147483647, 
     "code_explorer_custom_root_folder_name"
    ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    0, 
+    "CUqJcHipEe6PjQD-jj8s-J", 
+    "\u732b\u732b"
+   ]
   }
  ], 
  "d": {
+  "134228659": {
+   "__tuple__": true, 
+   "items": [
+    "CUqJcHipEe6PjQD-jj8s-J", 
+    0
+   ]
+  }, 
   "134250009": {
    "__tuple__": true, 
    "items": [
     2147483647, 
-    0
+    1
    ]
   }, 
   "134247073": {
    "__tuple__": true, 
    "items": [
     2147483647, 
-    1
+    2
    ]
   }
  }

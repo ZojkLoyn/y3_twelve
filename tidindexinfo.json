@@ -10,5 +10,17 @@
         "index_type": "object_editor", 
         "item_key": 134272047, 
         "prop_key": "name"
+    }, 
+    "1640054925": {
+        "editor_type": "ability_all", 
+        "index_type": "object_editor", 
+        "item_key": 134228659, 
+        "prop_key": "name"
+    }, 
+    "1653708009": {
+        "editor_type": "editor_unit", 
+        "index_type": "object_editor", 
+        "item_key": 134243357, 
+        "prop_key": "name"
     }
 }
