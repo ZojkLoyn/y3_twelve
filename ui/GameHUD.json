@@ -1,0 +1,1092 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "cap_insets": {
+                "__tuple__": true, 
+                "items": [
+                    42.666666666666664, 
+                    42.666666666666664, 
+                    42.666666666666664, 
+                    42.666666666666664
+                ]
+            }, 
+            "children": [
+                {
+                    "bg_image": 999, 
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            1, 
+                            0, 
+                            163, 
+                            174
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "image": 100845, 
+                                            "name": "skill_icon_img", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "type": 4, 
+                                            "uid": "689a5c07-6c04-45de-a974-dd597270bad2", 
+                                            "visible": false
+                                        }, 
+                                        {
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "image": 131188, 
+                                            "name": "skill_frame_img", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "type": 4, 
+                                            "uid": "59b30536-e0a1-45dc-b3b1-04cffe1db2dc"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0
+                                            ], 
+                                            "bg_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    255, 
+                                                    255, 
+                                                    255, 
+                                                    0
+                                                ]
+                                            }, 
+                                            "bg_image": 999, 
+                                            "children": [], 
+                                            "current_value": 0.0, 
+                                            "event_list": [], 
+                                            "image": 903688, 
+                                            "name": "skill_cd_progress", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "progress_type": 0, 
+                                            "reverse": true, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    156.0, 
+                                                    156.0
+                                                ]
+                                            }, 
+                                            "type": 5, 
+                                            "uid": "0ff5cad4-8da7-43f5-8e07-57cf8b1291f3", 
+                                            "visible": false
+                                        }, 
+                                        {
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "bold": true, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "label_effect": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    true, 
+                                                    false, 
+                                                    false, 
+                                                    false
+                                                ]
+                                            }, 
+                                            "name": "skill_cd_label", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    156.0, 
+                                                    156.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "10", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "5a293dfd-9b79-47b5-9164-737acd4abe12", 
+                                            "visible": false
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                false, 
+                                                false, 
+                                                71.0, 
+                                                5.0, 
+                                                83.0, 
+                                                -7.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "", 
+                                                    24
+                                                ]
+                                            }, 
+                                            "name": "skill_stack_label", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    95.0, 
+                                                    17.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    95.0, 
+                                                    17.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    24.0, 
+                                                    24.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "5", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "29a15f60-ff76-4a7e-9f57-be23606da8b8", 
+                                            "visible": false
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                false, 
+                                                false, 
+                                                -55.0, 
+                                                97.0, 
+                                                19.0, 
+                                                23.0
+                                            ], 
+                                            "children": [], 
+                                            "disabled_picture": null, 
+                                            "event_list": [], 
+                                            "name": "skill_upgrade_btn", 
+                                            "normal_picture": 903685, 
+                                            "normal_text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    " ", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.0, 
+                                                    135.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.0, 
+                                                    135.0
+                                                ]
+                                            }, 
+                                            "press_picture": 100351, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    41.94
+                                                ]
+                                            }, 
+                                            "suspend_picture": 100350, 
+                                            "type": 1, 
+                                            "uid": "4f88314b-5c5a-4382-946d-9b0b7ba3e64f", 
+                                            "visible": false
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                false, 
+                                                false, 
+                                                71.0, 
+                                                5.0, 
+                                                4.0, 
+                                                72.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "", 
+                                                    24
+                                                ]
+                                            }, 
+                                            "name": "skill_shortcut_label", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    16.0, 
+                                                    17.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    16.0, 
+                                                    17.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    24.0, 
+                                                    24.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "689183eb-1391-4689-9e9c-679372602714"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                -17.0, 
+                                                95.0, 
+                                                35.0, 
+                                                -35.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "", 
+                                                    24
+                                                ]
+                                            }, 
+                                            "name": "skill_level_label", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    85.0, 
+                                                    106.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    85.0, 
+                                                    106.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    22.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "lv.1", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "8339705b-f306-43b9-a2ed-7b584d5601ad"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                false, 
+                                                false, 
+                                                -28.0, 
+                                                -28.0, 
+                                                -27.0, 
+                                                -29.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "image": 903686, 
+                                            "name": "skill_consume_mask_img", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    51.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    51.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "type": 4, 
+                                            "uid": "0887cdf2-f5f5-4f91-93a4-9957ad4c173e", 
+                                            "visible": false
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                false, 
+                                                false, 
+                                                -28.0, 
+                                                -28.0, 
+                                                -27.0, 
+                                                -29.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "image": 903687, 
+                                            "name": "skill_disable_img", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    51.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    51.0, 
+                                                    50.0
+                                                ]
+                                            }, 
+                                            "type": 4, 
+                                            "uid": "c3ca7284-8dbe-4cc6-9192-d0b2b117deb0", 
+                                            "visible": false
+                                        }
+                                    ], 
+                                    "event_list": [], 
+                                    "name": "skill_btn_1", 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            78.0, 
+                                            78.0
+                                        ]
+                                    }, 
+                                    "short_cut": 11, 
+                                    "short_cut_smart_cast": 11, 
+                                    "skill_cd_label": "none_ref", 
+                                    "skill_cd_progress": "0ff5cad4-8da7-43f5-8e07-57cf8b1291f3", 
+                                    "skill_consume_mask_img": "0887cdf2-f5f5-4f91-93a4-9957ad4c173e", 
+                                    "skill_disable_img": "c3ca7284-8dbe-4cc6-9192-d0b2b117deb0", 
+                                    "skill_frame_img": "59b30536-e0a1-45dc-b3b1-04cffe1db2dc", 
+                                    "skill_icon_img": "689a5c07-6c04-45de-a974-dd597270bad2", 
+                                    "skill_level_label": "none_ref", 
+                                    "skill_shortcut_label": "689183eb-1391-4689-9e9c-679372602714", 
+                                    "skill_stack_label": "29a15f60-ff76-4a7e-9f57-be23606da8b8", 
+                                    "skill_type": 3, 
+                                    "skill_upgrade_btn": "4f88314b-5c5a-4382-946d-9b0b7ba3e64f", 
+                                    "slot_id": 1, 
+                                    "swallow_touches": true, 
+                                    "type": 17, 
+                                    "uid": "73eff7a3-0d61-4f8b-9981-82b0639cb587"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "image": 999, 
+                            "name": "\u56de\u6536\u6280\u80fd", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    400.0, 
+                                    75.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "9d604cdd-b388-474a-892b-18d2b15c9762"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "image": 100183, 
+                                            "name": "skill_icon_img", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    78.0, 
+                                                    78.0
+                                                ]
+                                            }, 
+                                            "type": 4, 
+                                            "uid": "fb517c58-e1c6-4139-9376-0be262fbc7ee", 
+                                            "visible": false
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "image": 903689, 
+                                            "name": "skill_frame_img", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    78.0, 
+                                                    78.0
+                                                ]
+                                            }, 
+                                            "type": 4, 
+                                            "uid": "029ae0f2-dbd3-44aa-9bcf-a0b77e8ee34b"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0
+                                            ], 
+                                            "bg_color": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    255, 
+                                                    255, 
+                                                    255, 
+                                                    0
+                                                ]
+                                            }, 
+                                            "bg_image": 999, 
+                                            "children": [], 
+                                            "current_value": 0.0, 
+                                            "event_list": [], 
+                                            "image": 903688, 
+                                            "name": "skill_cd_progress", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    78.0, 
+                                                    78.0
+                                                ]
+                                            }, 
+                                            "progress_type": 0, 
+                                            "reverse": true, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    156.0, 
+                                                    156.0
+                                                ]
+                                            }, 
+                                            "type": 5, 
+                                            "uid": "0d599c8b-0cef-4d52-94ff-1f71c2c4b780"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "bold": true, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "label_effect": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    true, 
+                                                    false, 
+                                                    false, 
+                                                    false
+                                                ]
+                                            }, 
+                                            "name": "skill_cd_label", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    78.0, 
+                                                    78.0
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    156.0, 
+                                                    156.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "10", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "5cee1edf-d5b1-4fe3-839d-7e9cc0b7faac", 
+                                            "visible": false
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                false, 
+                                                false, 
+                                                71.0, 
+                                                5.0, 
+                                                83.0, 
+                                                -7.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "", 
+                                                    24
+                                                ]
+                                            }, 
+                                            "name": "skill_stack_label", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    95.0, 
+                                                    17.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    60.89743589743589, 
+                                                    10.897435897435898
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    24.0, 
+                                                    24.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "5", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "e6aa5962-c451-45bf-9dd7-9e22b085e1d9", 
+                                            "visible": false
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                false, 
+                                                false, 
+                                                -55.0, 
+                                                97.0, 
+                                                19.0, 
+                                                23.0
+                                            ], 
+                                            "children": [], 
+                                            "disabled_picture": null, 
+                                            "event_list": [], 
+                                            "name": "skill_upgrade_btn", 
+                                            "normal_picture": 903685, 
+                                            "normal_text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    " ", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.0, 
+                                                    135.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    32.05128205128205, 
+                                                    86.53846153846155
+                                                ]
+                                            }, 
+                                            "press_picture": 100351, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    41.94
+                                                ]
+                                            }, 
+                                            "suspend_picture": 100350, 
+                                            "type": 1, 
+                                            "uid": "1d721f61-126c-4adf-bc51-fbbe8f7fa57a", 
+                                            "visible": false
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                false, 
+                                                false, 
+                                                false, 
+                                                71.0, 
+                                                5.0, 
+                                                4.0, 
+                                                72.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "", 
+                                                    24
+                                                ]
+                                            }, 
+                                            "name": "skill_shortcut_label", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    16.0, 
+                                                    17.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    10.256410256410255, 
+                                                    10.897435897435898
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    24.0, 
+                                                    24.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "f534f0c1-6d82-4c54-bb0e-506aeda230dd"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                100.0, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "", 
+                                                    24
+                                                ]
+                                            }, 
+                                            "name": "skill_level_label", 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    50.0, 
+                                                    88.0
+                                                ]
+                                            }, 
+                                            "pos_percent": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    32.05128205128205, 
+                                                    56.41025641025641
+                                                ]
+                                            }, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    100.0, 
+                                                    24.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "cd3fcbcd-671b-4a1f-b3f4-b72a3323d97d"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "image": 903686, 
+                                            "name": "skill_consume_mask_img", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    78.0, 
+                                                    78.0
+                                                ]
+                                            }, 
+                                            "type": 4, 
+                                            "uid": "46a870f1-df57-4664-af14-18854ca2280f", 
+                                            "visible": false
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0, 
+                                                0.0
+                                            ], 
+                                            "children": [
+                                                {
+                                                    "adapter_option": [
+                                                        true, 
+                                                        true, 
+                                                        true, 
+                                                        true, 
+                                                        0.0, 
+                                                        0.0, 
+                                                        0.0, 
+                                                        0.0
+                                                    ], 
+                                                    "children": [], 
+                                                    "event_list": [], 
+                                                    "image": 903690, 
+                                                    "name": "skill_frame_img", 
+                                                    "open_adapter": true, 
+                                                    "pos": {
+                                                        "__tuple__": true, 
+                                                        "items": [
+                                                            78.0, 
+                                                            78.0
+                                                        ]
+                                                    }, 
+                                                    "type": 4, 
+                                                    "uid": "c83ff547-d264-43d9-bf5d-1c3296669c4b"
+                                                }
+                                            ], 
+                                            "event_list": [], 
+                                            "image": 903687, 
+                                            "name": "skill_disable_img", 
+                                            "open_adapter": true, 
+                                            "pos": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    78.0, 
+                                                    78.0
+                                                ]
+                                            }, 
+                                            "type": 4, 
+                                            "uid": "0b473a6b-59dd-46a7-891d-56021214b618", 
+                                            "visible": false
+                                        }
+                                    ], 
+                                    "event_list": [], 
+                                    "name": "skill_btn_2", 
+                                    "open_adapter": true, 
+                                    "pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            78.0, 
+                                            78.0
+                                        ]
+                                    }, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            156.0, 
+                                            156.0
+                                        ]
+                                    }, 
+                                    "skill_cd_label": "5cee1edf-d5b1-4fe3-839d-7e9cc0b7faac", 
+                                    "skill_cd_progress": "0d599c8b-0cef-4d52-94ff-1f71c2c4b780", 
+                                    "skill_consume_mask_img": "46a870f1-df57-4664-af14-18854ca2280f", 
+                                    "skill_disable_img": "0b473a6b-59dd-46a7-891d-56021214b618", 
+                                    "skill_frame_img": "029ae0f2-dbd3-44aa-9bcf-a0b77e8ee34b", 
+                                    "skill_icon_img": "fb517c58-e1c6-4139-9376-0be262fbc7ee", 
+                                    "skill_level_label": "cd3fcbcd-671b-4a1f-b3f4-b72a3323d97d", 
+                                    "skill_shortcut_label": "f534f0c1-6d82-4c54-bb0e-506aeda230dd", 
+                                    "skill_stack_label": "e6aa5962-c451-45bf-9dd7-9e22b085e1d9", 
+                                    "skill_type": 3, 
+                                    "skill_upgrade_btn": "1d721f61-126c-4adf-bc51-fbbe8f7fa57a", 
+                                    "slot_id": 1, 
+                                    "swallow_touches": true, 
+                                    "type": 17, 
+                                    "uid": "594e3c3a-c9ef-4545-b79d-854ab66dd0fc"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "image": 999, 
+                            "name": "\u5efa\u9020\u6280\u80fd1", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    400.0, 
+                                    75.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "67641e36-7519-43d1-a512-e09b8c84ff5a"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "name": "\u5efa\u9020\u6280\u80fd2", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    357.0, 
+                                    75.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    44.625, 
+                                    50.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "f5595f1c-cebd-4d20-90e0-e27c7a7dc26c"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "name": "\u5efa\u9020\u6280\u80fd3", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    400.0, 
+                                    75.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "bb36fa6e-def8-4244-a4ed-9c4cb7393f3d"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "name": "\u5efa\u9020\u6280\u80fd4", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    400.0, 
+                                    75.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "4c3fd137-5efb-403a-b747-fd91a67ad745"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "\u5efa\u9020\u5217\u8868", 
+                    "opacity": 0.91, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            420.0, 
+                            76.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            55.702917771883286, 
+                            361.9047619047619
+                        ]
+                    }, 
+                    "scroll_bar_enable": true, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            800.0, 
+                            150.0
+                        ]
+                    }, 
+                    "type": 10, 
+                    "uid": "8425b334-f051-4e83-b319-6ff1b6f725fe"
+                }
+            ], 
+            "event_list": [], 
+            "image": 999, 
+            "is_scale9_enable": true, 
+            "name": "\u5907\u6218\u5e2d", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    10.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    0.9259259259259258
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    754.0, 
+                    21.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "89a2029e-84d2-4ab1-85da-26db318b377c"
+        }
+    ], 
+    "name": "GameHUD", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "06ea2a6d-80d6-4692-ae4b-cbfd7c2473af", 
+    "visible": true, 
+    "zorder": 400
+}
