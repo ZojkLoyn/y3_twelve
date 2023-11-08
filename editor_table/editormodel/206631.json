@@ -1,0 +1,45 @@
+{
+    "describe": 2033759670, 
+    "editor_res": false, 
+    "key": 206631, 
+    "map_name": "dm1_\u89d2\u8272", 
+    "model_id": 550173, 
+    "name": -1883343591, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "\u5361\u901a", 
+            "\u4e8c\u6b21\u5143", 
+            "\u65e5\u5f0f", 
+            "\u82f1\u96c4", 
+            "\u732a", 
+            "\u5f3a\u58ee", 
+            "\u5c04\u624b", 
+            "\u68d5\u8272", 
+            "\u5996\u602a\u5c0f\u73ed"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/206631", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 1.0, 
+    "size": 1.0, 
+    "socket_info": {
+        "coin": {
+            "__tuple__": true, 
+            "items": [
+                "coin", 
+                "Scene Root", 
+                0.0, 
+                0.5555295348167419, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_206631"
+}

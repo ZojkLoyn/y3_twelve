@@ -1,52 +1,12 @@
 {
     "_custom_": true, 
     "_ref_": 134267588, 
-    "attach_model_list": [
-        {
-            "anim_relate": {
-                "anim_map_list": [], 
-                "default_anim": "idle1", 
-                "is_loop": true
-            }, 
-            "follow_rotate": 0, 
-            "follow_scale": false, 
-            "has_anim": true, 
-            "model": 200490, 
-            "offset": {
-                "__tuple__": true, 
-                "items": [
-                    0.0, 
-                    0.6733, 
-                    0.0
-                ]
-            }, 
-            "rotate": {
-                "__tuple__": true, 
-                "items": [
-                    0.0, 
-                    0.0, 
-                    0.0
-                ]
-            }, 
-            "scale": {
-                "__tuple__": true, 
-                "items": [
-                    1.0, 
-                    1.0, 
-                    1.0
-                ]
-            }, 
-            "socket": "root"
-        }
-    ], 
+    "attach_model_list": [], 
     "cycle_time": 1.0, 
     "desc": 825323037, 
     "description": 825323037, 
     "disappear_when_dead": true, 
-    "get_effect_list": {
-        "__tuple__": true, 
-        "items": []
-    }, 
+    "get_effect_list": [], 
     "halo_effect": 0, 
     "ign_inf_unit_tag": {
         "__tuple__": true, 
