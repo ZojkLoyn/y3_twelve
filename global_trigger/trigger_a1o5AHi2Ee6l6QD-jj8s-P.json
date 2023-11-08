@@ -3,6 +3,63 @@
         "506060822": {
             "action": [
                 {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                [
+                                    "INTEGER", 
+                                    "\u91d1\u5e01"
+                                ]
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "INTEGER", 
+                                                "\u91d1\u5e01"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 6
+                                }, 
+                                {
+                                    "arg_type": 100016, 
+                                    "args_list": [
+                                        "+"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100240, 
+                                            "args_list": [
+                                                "\u91d1\u5e01\u6570\u91cf"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_CUS_EVENT_PARAM"
+                                }
+                            ], 
+                            "sub_type": "MATH_OPERATION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 335749124000147, 
+                    "enable": true
+                }, 
+                {
                     "action_type": "IF_THEN_ELSE", 
                     "args_list": [
                         {
@@ -13,33 +70,39 @@
                                         {
                                             "arg_type": 100002, 
                                             "args_list": [
-                                                0
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "\u91d1\u5e01"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 6
+                                        }, 
+                                        {
+                                            "arg_type": 100015, 
+                                            "args_list": [
+                                                ">"
                                             ], 
                                             "sub_type": 1
                                         }, 
                                         {
                                             "arg_type": 100002, 
                                             "args_list": [
-                                                [
-                                                    "INTEGER", 
-                                                    "\u91d1\u5e01"
-                                                ]
-                                            ], 
-                                            "sub_type": 6
-                                        }, 
-                                        {
-                                            "arg_type": 100002, 
-                                            "args_list": [
-                                                [
-                                                    "INTEGER", 
-                                                    "\u91d1\u5e01\u4e0a\u9650"
-                                                ]
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "\u91d1\u5e01\u4e0a\u9650"
+                                                    ]
+                                                }
                                             ], 
                                             "sub_type": 6
                                         }
                                     ], 
-                                    "condition_type": "NUMBER_RANGE", 
-                                    "element_id": 335749124000184, 
+                                    "condition_type": "FLOAT_COMPARE", 
+                                    "element_id": 506060822000200, 
                                     "enable": true
                                 }
                             ], 
@@ -54,10 +117,13 @@
                                         {
                                             "arg_type": 100030, 
                                             "args_list": [
-                                                [
-                                                    "INTEGER", 
-                                                    "\u91d1\u5e01"
-                                                ]
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "\u91d1\u5e01"
+                                                    ]
+                                                }
                                             ], 
                                             "sub_type": 1
                                         }, 
@@ -65,21 +131,18 @@
                                             "arg_type": 100002, 
                                             "args_list": [
                                                 {
-                                                    "arg_type": 100002, 
-                                                    "args_list": [
-                                                        [
-                                                            "INTEGER", 
-                                                            "\u91d1\u5e01"
-                                                        ]
-                                                    ], 
-                                                    "sub_type": 6
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "\u91d1\u5e01\u4e0a\u9650"
+                                                    ]
                                                 }
                                             ], 
-                                            "sub_type": "INT_PLUS_ONE"
+                                            "sub_type": 6
                                         }
                                     ], 
                                     "bp": false, 
-                                    "element_id": 335749124000147, 
+                                    "element_id": 506060822000204, 
                                     "enable": true
                                 }
                             ], 
@@ -95,6 +158,77 @@
                     "element_id": 335749124000150, 
                     "enable": true, 
                     "fake_op": []
+                }, 
+                {
+                    "action_type": "DISPLAY_INFO_TO_PLAYER", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        "\u5f53\u524d\u91d1\u94b1\u4e3a\uff1a"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                [
+                                                    "INTEGER", 
+                                                    "\u91d1\u5e01"
+                                                ]
+                                            ], 
+                                            "sub_type": 6
+                                        }
+                                    ], 
+                                    "sub_type": "ANY_VAR_TO_STR"
+                                }
+                            ], 
+                            "op_arg": [
+                                null, 
+                                null, 
+                                null, 
+                                null, 
+                                null, 
+                                null, 
+                                null, 
+                                null
+                            ], 
+                            "op_arg_enable": [
+                                false, 
+                                false, 
+                                false, 
+                                false, 
+                                false, 
+                                false, 
+                                false, 
+                                false
+                            ], 
+                            "sub_type": "STR_JOIN"
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1350127621000048, 
+                    "enable": true
                 }
             ], 
             "call_enabled": true, 
@@ -119,7 +253,7 @@
             "group_id": "a1o5AHi2Ee6l6QD-jj8s-P", 
             "p_trigger_id": null, 
             "trigger_id": 506060822, 
-            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
+            "trigger_name": "\u7206\u91d1\u5e01", 
             "valid": true
         }, 
         "1808314369": {
@@ -735,7 +869,7 @@
                 "__tuple__": true, 
                 "items": [
                     506060822, 
-                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                    "\u7206\u91d1\u5e01"
                 ]
             }
         ], 
