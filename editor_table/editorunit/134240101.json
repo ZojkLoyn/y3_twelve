@@ -176,7 +176,7 @@
     "max_stock": 5, 
     "mini_map_icon": 100174, 
     "mini_map_icon_scale": 1.0, 
-    "model": 200485, 
+    "model": 206631, 
     "model_height": 0.0, 
     "model_opacity": 1, 
     "move_channel": 0, 
@@ -190,7 +190,7 @@
     "mp_rec_grow": 2, 
     "name": -1347621589, 
     "need_preview_billboard": false, 
-    "ori_bits": 328, 
+    "ori_bits": 3400, 
     "ori_speed": 2.0, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": {
