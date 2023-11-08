@@ -68,6 +68,16 @@
                 "\u89d2\u8272": 0, 
                 "\u8def\u7ebf": 0
             }
+        }, 
+        "1415602203": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u5bf9\u5e94\u884c": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5bf9\u5e94\u884c": 0
+            }
         }
     }, 
     "variable_comments": {}, 
