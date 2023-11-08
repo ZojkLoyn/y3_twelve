@@ -1719,7 +1719,7 @@
         "group_id": 0, 
         "p_trigger_id": null, 
         "trigger_id": 1170792454, 
-        "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
+        "trigger_name": "debug\u6682\u505c", 
         "valid": true
     }, 
     "1490096135": {
@@ -1754,7 +1754,7 @@
         "group_id": 0, 
         "p_trigger_id": null, 
         "trigger_id": 1490096135, 
-        "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_3", 
+        "trigger_name": "debug\u56de\u590d\u6682\u505c", 
         "valid": true
     }, 
     "1691049987": {

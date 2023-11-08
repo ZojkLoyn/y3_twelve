@@ -2,11 +2,12 @@
     "group": [], 
     "key": -1, 
     "key_order": {
-        "8DTCoXi0Ee6FYgD-jj8s-C": 12, 
+        "8DTCoXi0Ee6FYgD-jj8s-C": 13, 
         "R+ZLgHi2Ee6FeAD-jj8s-L": 0, 
-        "a1o5AHi2Ee6l6QD-jj8s-P": 13, 
-        "iw1Gj3i5Ee6u-QD-jj8s-E": 10, 
-        "m8M4nniqEe6bqwD-jj8s-K": 11, 
+        "R2J-z344Ee6ZRAoAJwAACC": 10, 
+        "a1o5AHi2Ee6l6QD-jj8s-P": 14, 
+        "iw1Gj3i5Ee6u-QD-jj8s-E": 11, 
+        "m8M4nniqEe6bqwD-jj8s-K": 12, 
         "oWFjT3WiEe6U5gD-jj8s-C": 2
     }, 
     "name": "trigger", 
@@ -22,14 +23,14 @@
             "__tuple__": true, 
             "items": [
                 1170792454, 
-                "\u65b0\u5efa\u89e6\u53d1\u5668_2"
+                "debug\u6682\u505c"
             ]
         }, 
         "4": {
             "__tuple__": true, 
             "items": [
                 1490096135, 
-                "\u65b0\u5efa\u89e6\u53d1\u5668_3"
+                "debug\u56de\u590d\u6682\u505c"
             ]
         }, 
         "5": {
