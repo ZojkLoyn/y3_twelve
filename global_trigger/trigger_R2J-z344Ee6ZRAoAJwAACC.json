@@ -65,7 +65,7 @@
                         {
                             "arg_type": 100002, 
                             "args_list": [
-                                0
+                                -1
                             ], 
                             "sub_type": 1
                         }

@@ -2013,5 +2013,79 @@
         "trigger_id": 1691049987, 
         "trigger_name": "\u6574\u4f53\u521d\u59cb\u5316", 
         "valid": true
+    }, 
+    "1942495260": {
+        "action": [
+            {
+                "action_type": "IF_THEN_ELSE", 
+                "args_list": [
+                    {
+                        "arg_type": 100021, 
+                        "args_list": [], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1942495260000004, 
+                "enable": true, 
+                "fake_op": [
+                    2
+                ]
+            }, 
+            {
+                "action_type": 400342, 
+                "args_list": [
+                    null
+                ], 
+                "bp": false, 
+                "element_id": 1942495260000002, 
+                "enable": true
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [], 
+        "enabled": true, 
+        "event": [], 
+        "func_category": "t_function", 
+        "func_comment": "", 
+        "func_des": "\u51fd\u6570\u63cf\u8ff0{\u91d1\u5e01}", 
+        "func_id": "e77a90407e4011eeb87900ff8e3f2cfc", 
+        "func_name": "\u7206\u91d1\u5e01", 
+        "func_param_list": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    "\u91d1\u5e01", 
+                    true
+                ]
+            }
+        ], 
+        "func_return": true, 
+        "func_rtv_name_list": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    "ok", 
+                    "BOOLEAN"
+                ]
+            }
+        ], 
+        "group_id": 0, 
+        "is_func": true, 
+        "is_official_func": false, 
+        "p_trigger_id": null, 
+        "trigger_id": 1942495260, 
+        "trigger_name": "\u7206\u91d1\u5e01", 
+        "valid": false
     }
 }

@@ -78,6 +78,16 @@
             "variable_length_dict": {
                 "\u5bf9\u5e94\u884c": 0
             }
+        }, 
+        "1942495260": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u91d1\u5e01": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u91d1\u5e01": 0
+            }
         }
     }, 
     "variable_comments": {}, 
