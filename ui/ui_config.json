@@ -8,7 +8,26 @@
     }, 
     "design_resolution_index": 0, 
     "first_init_ui_editor": true, 
-    "prefab_data": {}, 
+    "prefab_data": {
+        "2d92f3d6-573c-4081-b3a4-e8effcc64e0e": {
+            "data": {
+                "children": [], 
+                "comp_anims": [], 
+                "event_list": [], 
+                "name": "layout_1", 
+                "pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        960.0, 
+                        540.0
+                    ]
+                }, 
+                "prefab_key": "2d92f3d6-573c-4081-b3a4-e8effcc64e0e", 
+                "type": 7
+            }, 
+            "name": "\u65b0\u5efa\u81ea\u5b9a\u4e49\u6a21\u5757"
+        }
+    }, 
     "ui_template_id": null, 
     "uid_version": true
 }

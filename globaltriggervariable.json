@@ -75,6 +75,7 @@
         "POLYGON": {
             "\u7ec8\u70b9\u5224\u5b9a\u533a\u57df": 0
         }, 
+        "STRING": {}, 
         "TABLE": {
             "\u51fa\u602a\u8868": null
         }, 

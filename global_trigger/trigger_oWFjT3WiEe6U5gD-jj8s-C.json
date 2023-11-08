@@ -1,113 +1,5 @@
 {
     "trigger_dict": {
-        "763375624": {
-            "action": [
-                {
-                    "action_type": "APPLY_DAMAGE", 
-                    "args_list": [
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [], 
-                            "sub_type": "NONE_UNIT"
-                        }, 
-                        {
-                            "arg_type": 100014, 
-                            "args_list": [], 
-                            "sub_type": "NONE_ABILITY"
-                        }, 
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [
-                                5
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100064, 
-                            "args_list": [
-                                2
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100000, 
-                            "args_list": [
-                                1000.0
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100001, 
-                            "args_list": [
-                                true
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 763375624000016, 
-                    "enable": true, 
-                    "op_arg": [
-                        {
-                            "arg_type": 100001, 
-                            "args_list": [
-                                true
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100001, 
-                            "args_list": [
-                                true
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100001, 
-                            "args_list": [
-                                true
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        null, 
-                        null, 
-                        null
-                    ], 
-                    "op_arg_enable": [
-                        false, 
-                        false, 
-                        false, 
-                        false, 
-                        false, 
-                        false
-                    ]
-                }
-            ], 
-            "call_enabled": true, 
-            "condition": [], 
-            "enabled": false, 
-            "event": [
-                {
-                    "args_list": [
-                        {
-                            "arg_type": 100002, 
-                            "args_list": [
-                                15
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "element_id": 763375624000007, 
-                    "enable": true, 
-                    "event_type": "GAME_ELAPSE_REPEAT_BY_FRAME"
-                }
-            ], 
-            "group_id": "oWFjT3WiEe6U5gD-jj8s-C", 
-            "p_trigger_id": null, 
-            "trigger_id": 763375624, 
-            "trigger_name": "\u8d44\u6e90\u83b7\u53d6\u8fdb\u5ea6\u6761", 
-            "valid": true
-        }, 
         "1350127621": {
             "action": [
                 {
@@ -357,13 +249,6 @@
                 "is_sub_folder": true, 
                 "key": "iw1Gj3i5Ee6u-QD-jj8s-E", 
                 "name": "\u521d\u59cb\u5316"
-            }, 
-            {
-                "__tuple__": true, 
-                "items": [
-                    763375624, 
-                    "\u8d44\u6e90\u83b7\u53d6\u8fdb\u5ea6\u6761"
-                ]
             }, 
             {
                 "_trigger_group_": true, 

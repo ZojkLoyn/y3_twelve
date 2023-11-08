@@ -202,59 +202,6 @@
                             "arg_type": 100022, 
                             "args_list": [
                                 {
-                                    "action_type": "SEND_CUSTOM_EVENT", 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100238, 
-                                            "args_list": [
-                                                1575353086
-                                            ], 
-                                            "sub_type": 1
-                                        }, 
-                                        {
-                                            "arg_type": 100002, 
-                                            "args_list": [
-                                                0
-                                            ], 
-                                            "sub_type": 1
-                                        }
-                                    ], 
-                                    "bp": false, 
-                                    "element_id": 335749124000026, 
-                                    "enable": true
-                                }
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100022, 
-                            "args_list": [], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100003, 
-                            "args_list": [
-                                "\u5e03\u666f"
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 335749124000220, 
-                    "enable": true
-                }, 
-                {
-                    "action_type": "STORAGE_BOX", 
-                    "args_list": [
-                        {
-                            "arg_type": 100021, 
-                            "args_list": [], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100022, 
-                            "args_list": [
-                                {
                                     "action_type": "APPLY_CAMERA_CONF", 
                                     "args_list": [
                                         {
@@ -943,7 +890,7 @@
                                                 {
                                                     "arg_type": 100240, 
                                                     "args_list": [
-                                                        "\u654c\u65b9\u6e05\u7406"
+                                                        "\u6e05\u9664\u654c\u65b9\u5355\u4f4d"
                                                     ], 
                                                     "sub_type": 1
                                                 }
@@ -1071,7 +1018,7 @@
                                                 {
                                                     "arg_type": 100240, 
                                                     "args_list": [
-                                                        "\u5df1\u65b9\u6e05\u7406"
+                                                        "\u6e05\u695a\u6211\u65b9\u5355\u4f4d"
                                                     ], 
                                                     "sub_type": 1
                                                 }
@@ -1141,7 +1088,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1398206484, 
             "trigger_name": "\u5173\u5361\u7ed3\u675f\u521d\u59cb\u5316", 
-            "valid": false
+            "valid": true
         }
     }, 
     "trigger_group_info": {
