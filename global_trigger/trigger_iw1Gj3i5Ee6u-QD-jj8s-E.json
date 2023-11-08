@@ -555,100 +555,6 @@
                                             "arg_type": 100022, 
                                             "args_list": [
                                                 {
-                                                    "action_type": "IF_THEN_ELSE", 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100021, 
-                                                            "args_list": [
-                                                                {
-                                                                    "args_list": [
-                                                                        {
-                                                                            "arg_type": 100002, 
-                                                                            "args_list": [
-                                                                                0
-                                                                            ], 
-                                                                            "sub_type": 1
-                                                                        }, 
-                                                                        {
-                                                                            "arg_type": 100002, 
-                                                                            "args_list": [
-                                                                                [
-                                                                                    "INTEGER", 
-                                                                                    "\u91d1\u5e01"
-                                                                                ]
-                                                                            ], 
-                                                                            "sub_type": 6
-                                                                        }, 
-                                                                        {
-                                                                            "arg_type": 100002, 
-                                                                            "args_list": [
-                                                                                [
-                                                                                    "INTEGER", 
-                                                                                    "\u91d1\u5e01\u4e0a\u9650"
-                                                                                ]
-                                                                            ], 
-                                                                            "sub_type": 6
-                                                                        }
-                                                                    ], 
-                                                                    "condition_type": "NUMBER_RANGE", 
-                                                                    "element_id": 335749124000184, 
-                                                                    "enable": true
-                                                                }
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100022, 
-                                                            "args_list": [
-                                                                {
-                                                                    "action_type": "SET_VARIABLE", 
-                                                                    "args_list": [
-                                                                        {
-                                                                            "arg_type": 100030, 
-                                                                            "args_list": [
-                                                                                [
-                                                                                    "INTEGER", 
-                                                                                    "\u91d1\u5e01"
-                                                                                ]
-                                                                            ], 
-                                                                            "sub_type": 1
-                                                                        }, 
-                                                                        {
-                                                                            "arg_type": 100002, 
-                                                                            "args_list": [
-                                                                                {
-                                                                                    "arg_type": 100002, 
-                                                                                    "args_list": [
-                                                                                        [
-                                                                                            "INTEGER", 
-                                                                                            "\u91d1\u5e01"
-                                                                                        ]
-                                                                                    ], 
-                                                                                    "sub_type": 6
-                                                                                }
-                                                                            ], 
-                                                                            "sub_type": "INT_PLUS_ONE"
-                                                                        }
-                                                                    ], 
-                                                                    "bp": false, 
-                                                                    "element_id": 335749124000147, 
-                                                                    "enable": true
-                                                                }
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100022, 
-                                                            "args_list": [], 
-                                                            "sub_type": 1
-                                                        }
-                                                    ], 
-                                                    "bp": false, 
-                                                    "element_id": 335749124000150, 
-                                                    "enable": true, 
-                                                    "fake_op": []
-                                                }, 
-                                                {
                                                     "action_type": "DISPLAY_INFO_TO_PLAYER", 
                                                     "args_list": [
                                                         {
@@ -717,6 +623,28 @@
                                                     ], 
                                                     "bp": false, 
                                                     "element_id": 1350127621000048, 
+                                                    "enable": true
+                                                }, 
+                                                {
+                                                    "action_type": "SEND_CUSTOM_EVENT", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100238, 
+                                                            "args_list": [
+                                                                1116545898
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                1
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 335749124000369, 
                                                     "enable": true
                                                 }
                                             ], 
