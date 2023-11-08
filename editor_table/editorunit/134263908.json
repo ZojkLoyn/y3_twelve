@@ -147,7 +147,30 @@
     "keep_dead_body_time": 0.0, 
     "keep_target": true, 
     "key": 134263908, 
-    "kv": {}, 
+    "kv": {
+        "\u5347\u7ea7\u8981\u6c42\u91d1\u5e01": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 1, 
+            "key": "\u5347\u7ea7\u8981\u6c42\u91d1\u5e01", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 1, 
+            "type": 2, 
+            "value": 2
+        }, 
+        "\u653e\u7f6e\u8981\u6c42\u91d1\u5e01": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 1, 
+            "key": "\u653e\u7f6e\u8981\u6c42\u91d1\u5e01", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 0, 
+            "type": 2, 
+            "value": 10
+        }
+    }, 
     "level": 1, 
     "main_attr": "strength", 
     "max_stock": 5, 

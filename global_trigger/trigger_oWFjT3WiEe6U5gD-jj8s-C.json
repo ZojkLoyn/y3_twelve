@@ -3,12 +3,12 @@
         "1350127621": {
             "action": [
                 {
-                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                    "action_type": "DISPLAY_INFO_TO_PLAYER", 
                     "args_list": [
                         {
-                            "arg_type": 100175, 
+                            "arg_type": 100025, 
                             "args_list": [
-                                3
+                                1
                             ], 
                             "sub_type": 1
                         }, 
@@ -28,13 +28,10 @@
                                         {
                                             "arg_type": 100002, 
                                             "args_list": [
-                                                {
-                                                    "__tuple__": true, 
-                                                    "items": [
-                                                        "INTEGER", 
-                                                        "\u5f53\u524d\u751f\u8096\u6a21\u5f0f"
-                                                    ]
-                                                }
+                                                [
+                                                    "INTEGER", 
+                                                    "\u5f53\u524d\u751f\u8096\u6a21\u5f0f"
+                                                ]
                                             ], 
                                             "sub_type": 6
                                         }
@@ -63,10 +60,17 @@
                                 false
                             ], 
                             "sub_type": "STR_JOIN"
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 1350127621000006, 
+                    "element_id": 1350127621000032, 
                     "enable": true
                 }, 
                 {
@@ -104,12 +108,12 @@
                     "enable": true
                 }, 
                 {
-                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                    "action_type": "DISPLAY_INFO_TO_PLAYER", 
                     "args_list": [
                         {
-                            "arg_type": 100175, 
+                            "arg_type": 100025, 
                             "args_list": [
-                                3
+                                1
                             ], 
                             "sub_type": 1
                         }, 
@@ -161,10 +165,17 @@
                                 false
                             ], 
                             "sub_type": "STR_JOIN"
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 1350127621000009, 
+                    "element_id": 1350127621000027, 
                     "enable": true
                 }, 
                 {
@@ -190,6 +201,34 @@
                     "element_id": 1350127621000012, 
                     "enable": true, 
                     "fake_op": []
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "UNIT_NAME", 
+                                        "\u653e\u7f6e\u5355\u4f4d"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100116, 
+                            "args_list": [
+                                134243357
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1350127621000014, 
+                    "enable": true
                 }
             ], 
             "call_enabled": true, 
