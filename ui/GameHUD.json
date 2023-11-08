@@ -93,7 +93,6 @@
                                                 ]
                                             }, 
                                             "progress_type": 0, 
-                                            "reverse": true, 
                                             "size": {
                                                 "__tuple__": true, 
                                                 "items": [
