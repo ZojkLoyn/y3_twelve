@@ -233,6 +233,40 @@
                                     "enable": true
                                 }, 
                                 {
+                                    "action_type": "SET_VARIABLE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100030, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "TABLE", 
+                                                        "\u53ec\u5524\u8868"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100011, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100240, 
+                                                    "args_list": [
+                                                        "\u53ec\u5524"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "GET_CUS_EVENT_PARAM"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 335749124000372, 
+                                    "enable": true
+                                }, 
+                                {
                                     "action_type": "SET_TRIGGER_ENABLED", 
                                     "args_list": [
                                         {
