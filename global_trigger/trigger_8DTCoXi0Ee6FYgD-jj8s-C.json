@@ -238,55 +238,6 @@
                             "arg_type": 100022, 
                             "args_list": [
                                 {
-                                    "action_type": "KILL_UNIT", 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100006, 
-                                            "args_list": [], 
-                                            "sub_type": "GET_UNIT_FROM_EVENT"
-                                        }, 
-                                        {
-                                            "arg_type": 100006, 
-                                            "args_list": [], 
-                                            "sub_type": "NONE_UNIT"
-                                        }
-                                    ], 
-                                    "bp": false, 
-                                    "element_id": 1874300930000060, 
-                                    "enable": true
-                                }
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100022, 
-                            "args_list": [], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100003, 
-                            "args_list": [
-                                "\u654c\u65b9\u5355\u4f4d"
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 1874300930000068, 
-                    "enable": true
-                }, 
-                {
-                    "action_type": "STORAGE_BOX", 
-                    "args_list": [
-                        {
-                            "arg_type": 100021, 
-                            "args_list": [], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100022, 
-                            "args_list": [
-                                {
                                     "action_type": "SET_VARIABLE", 
                                     "args_list": [
                                         {
@@ -513,6 +464,68 @@
                     ], 
                     "bp": false, 
                     "element_id": 1874300930000079, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "STORAGE_BOX", 
+                    "args_list": [
+                        {
+                            "arg_type": 100021, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "KILL_UNIT", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [], 
+                                            "sub_type": "GET_UNIT_FROM_EVENT"
+                                        }, 
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [], 
+                                            "sub_type": "NONE_UNIT"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1874300930000060, 
+                                    "enable": true
+                                }, 
+                                {
+                                    "action_type": "DELETE_UNIT", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [], 
+                                            "sub_type": "GET_UNIT_FROM_EVENT"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1874300930000175, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u654c\u65b9\u5355\u4f4d"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1874300930000068, 
                     "enable": true
                 }
             ], 
