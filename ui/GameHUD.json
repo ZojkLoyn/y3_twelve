@@ -436,7 +436,7 @@
                                             78.0
                                         ]
                                     }, 
-                                    "short_cut": 11, 
+                                    "short_cut": 16, 
                                     "short_cut_smart_cast": 11, 
                                     "skill_cd_label": "none_ref", 
                                     "skill_cd_progress": "0ff5cad4-8da7-43f5-8e07-57cf8b1291f3", 
@@ -447,9 +447,7 @@
                                     "skill_level_label": "none_ref", 
                                     "skill_shortcut_label": "689183eb-1391-4689-9e9c-679372602714", 
                                     "skill_stack_label": "29a15f60-ff76-4a7e-9f57-be23606da8b8", 
-                                    "skill_type": 2, 
                                     "skill_upgrade_btn": "4f88314b-5c5a-4382-946d-9b0b7ba3e64f", 
-                                    "swallow_touches": true, 
                                     "type": 17, 
                                     "uid": "73eff7a3-0d61-4f8b-9981-82b0639cb587"
                                 }
@@ -471,8 +469,7 @@
                                     "enabled": true, 
                                     "name": "\u56de\u6536\u6280\u80fd_0", 
                                     "sound_id": null, 
-                                    "time": 0.05, 
-                                    "type": 23
+                                    "type": 2
                                 }
                             ], 
                             "image": 100845, 
@@ -899,7 +896,7 @@
                                             78.0
                                         ]
                                     }, 
-                                    "short_cut": 2, 
+                                    "short_cut": 17, 
                                     "short_cut_smart_cast": 11, 
                                     "skill_cd_label": "none_ref", 
                                     "skill_cd_progress": "0ff5cad4-8da7-43f5-8e07-57cf8b1291f3", 
@@ -913,7 +910,6 @@
                                     "skill_type": 3, 
                                     "skill_upgrade_btn": "4f88314b-5c5a-4382-946d-9b0b7ba3e64f", 
                                     "slot_id": 1, 
-                                    "swallow_touches": true, 
                                     "type": 17, 
                                     "uid": "cd16ecfd-01e3-4b1b-880b-9ca0136b837f"
                                 }
@@ -935,8 +931,7 @@
                                     "enabled": true, 
                                     "name": "\u5efa\u9020\u6280\u80fd1_0", 
                                     "sound_id": null, 
-                                    "time": 0.05, 
-                                    "type": 23
+                                    "type": 2
                                 }
                             ], 
                             "image": 131109, 
@@ -952,6 +947,16 @@
                             "uid": "67641e36-7519-43d1-a512-e09b8c84ff5a"
                         }, 
                         {
+                            "adapter_option": [
+                                false, 
+                                true, 
+                                true, 
+                                true, 
+                                -3.0, 
+                                -3.0, 
+                                322.0, 
+                                322.0
+                            ], 
                             "children": [
                                 {
                                     "children": [
@@ -1363,7 +1368,7 @@
                                             78.0
                                         ]
                                     }, 
-                                    "short_cut": 11, 
+                                    "short_cut": 18, 
                                     "short_cut_smart_cast": 11, 
                                     "skill_cd_label": "none_ref", 
                                     "skill_cd_progress": "0ff5cad4-8da7-43f5-8e07-57cf8b1291f3", 
@@ -1377,7 +1382,6 @@
                                     "skill_type": 1, 
                                     "skill_upgrade_btn": "4f88314b-5c5a-4382-946d-9b0b7ba3e64f", 
                                     "slot_id": 2, 
-                                    "swallow_touches": true, 
                                     "type": 17, 
                                     "uid": "ff096d9c-afda-4237-95c4-e628ea399305"
                                 }
@@ -1399,24 +1403,17 @@
                                     "enabled": true, 
                                     "name": "\u5efa\u9020\u6280\u80fd2_0", 
                                     "sound_id": null, 
-                                    "time": 0.05, 
-                                    "type": 23
+                                    "type": 2
                                 }
                             ], 
                             "image": 131110, 
                             "name": "\u5efa\u9020\u6280\u80fd2", 
+                            "open_adapter": true, 
                             "pos": {
                                 "__tuple__": true, 
                                 "items": [
-                                    357.0, 
+                                    400.0, 
                                     75.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
-                                    44.625, 
-                                    50.0
                                 ]
                             }, 
                             "type": 4, 
