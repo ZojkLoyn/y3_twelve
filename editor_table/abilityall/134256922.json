@@ -1,39 +1,32 @@
 {
-    "1": 1, 
-    "5": 1, 
-    "6": 0, 
-    "102": 0, 
-    "104": 500, 
-    "107": 0, 
-    "108": 100, 
     "_custom_": true, 
-    "_ref_": 134250009, 
+    "_ref_": 134256922, 
     "ability_break_cast_range": {
         "__tuple__": true, 
         "items": [
             "50"
         ]
     }, 
-    "ability_bw_point": 0.0, 
-    "ability_cast_point": 0.0, 
+    "ability_bw_point": 0.5, 
+    "ability_cast_point": 0.2, 
     "ability_cast_range": {
         "__tuple__": true, 
         "items": [
             "10"
         ]
     }, 
-    "ability_cast_type": 2, 
+    "ability_cast_type": 3, 
     "ability_channel_time": 0.0, 
     "ability_cost": {
         "__tuple__": true, 
         "items": [
-            "0.0"
+            "5"
         ]
     }, 
     "ability_damage": {
         "__tuple__": true, 
         "items": [
-            "0.0"
+            "5"
         ]
     }, 
     "ability_damage_range": {
@@ -48,7 +41,7 @@
             "0"
         ]
     }, 
-    "ability_icon": 100508, 
+    "ability_icon": 131683, 
     "ability_max_level": 1, 
     "ability_max_stack_count": {
         "__tuple__": true, 
@@ -117,7 +110,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "0.0"
+            "1.0"
         ]
     }, 
     "collection_animation": "", 
@@ -139,7 +132,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "description": 1081352723, 
+    "description": -977075436, 
     "end_sfx_list": {
         "__tuple__": true, 
         "items": []
@@ -166,20 +159,20 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "influenced_by_cd_reduce": false, 
+    "influenced_by_cd_reduce": true, 
     "influenced_by_move": true, 
     "is_autocast": false, 
     "is_charge_ability": false, 
-    "is_immediate": true, 
+    "is_immediate": false, 
     "is_meele": false, 
-    "key": 134250009, 
+    "key": 134256922, 
     "kv": {}, 
     "magicbook_list": {
         "__tuple__": true, 
         "items": []
     }, 
-    "name": 414888643, 
-    "need_turn_to_target": false, 
+    "name": -822653908, 
+    "need_turn_to_target": true, 
     "pick_count": 1, 
     "player_props_cost": {}, 
     "precondition_list": {
@@ -225,7 +218,7 @@
         ]
     }, 
     "show_building_attack_range": false, 
-    "sight_type": 0, 
+    "sight_type": 4, 
     "sound_event_list": {
         "__tuple__": true, 
         "items": []
@@ -250,5 +243,5 @@
     "type_priority_destructible": 1, 
     "type_priority_hero": 1, 
     "type_priority_item": 1, 
-    "uid": "134250009"
+    "uid": "134256922"
 }

@@ -171,13 +171,13 @@
         "\u5360\u636e\u5355\u4f4d": {
             "annotation": "", 
             "desc": "", 
-            "etype": 0, 
+            "etype": 1, 
             "key": "\u5360\u636e\u5355\u4f4d", 
-            "prop_cls": "PText", 
+            "prop_cls": "PInt", 
             "remark": "", 
             "sort": 1, 
-            "type": 0, 
-            "value": ""
+            "type": 2, 
+            "value": 0
         }
     }, 
     "level": 1, 

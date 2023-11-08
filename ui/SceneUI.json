@@ -1,6 +1,21 @@
 {
     "adapt_mode": 2, 
-    "children": [], 
+    "children": [
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "layout_1", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "f7508d48-ab0c-4151-b2a7-683c685665bd"
+        }
+    ], 
     "name": "SceneUI", 
     "opacity": 1.0, 
     "type": 2, 
