@@ -95,7 +95,8 @@
         }, 
         "STRING": {}, 
         "TABLE": {
-            "\u51fa\u602a\u8868": null
+            "\u51fa\u602a\u8868": null, 
+            "\u53ec\u5524\u8868": null
         }, 
         "TABLE_SAVE": {}, 
         "UNIT_ENTITY": {}, 
@@ -183,11 +184,24 @@
                     "name": "\u654c\u65b9"
                 }, 
                 {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u751f\u547d\u503c", 
-                        "\u751f\u547d\u503c"
-                    ]
+                    "group": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "\u751f\u547d\u503c", 
+                                "\u751f\u547d\u503c"
+                            ]
+                        }, 
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "\u53ec\u5524\u8868", 
+                                "\u53ec\u5524\u8868"
+                            ]
+                        }
+                    ], 
+                    "key": "O2gF3n46Ee6o7AD-jj8s-C", 
+                    "name": "\u5df1\u65b9"
                 }
             ], 
             "key": "cMRowHVpEe6EjgD-jj8s-C", 
@@ -223,6 +237,7 @@
     ], 
     "variable_length_dict": {
         "\u51fa\u602a\u8868": 0, 
+        "\u53ec\u5524\u8868": 0, 
         "\u5728\u573a\u6570\u91cf": 0, 
         "\u5f53\u524d\u751f\u8096\u6a21\u5f0f": 0, 
         "\u653e\u7f6e\u5355\u4f4d": 0, 

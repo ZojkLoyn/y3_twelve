@@ -99,6 +99,56 @@
             "trigger_id": 553558034, 
             "trigger_name": "1", 
             "valid": true
+        }, 
+        "1390997527": {
+            "action": [
+                {
+                    "action_type": "SEND_CUSTOM_EVENT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100238, 
+                            "args_list": [
+                                1575353086
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                2
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1390997527000002, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                3
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1390997527000001, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+                }
+            ], 
+            "group_id": "R+ZLgHi2Ee6FeAD-jj8s-L", 
+            "p_trigger_id": null, 
+            "trigger_id": 1390997527, 
+            "trigger_name": "2", 
+            "valid": true
         }
     }, 
     "trigger_group_info": {
@@ -116,6 +166,13 @@
                 "items": [
                     553558034, 
                     "1"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1390997527, 
+                    "2"
                 ]
             }
         ], 

@@ -5,11 +5,23 @@
         "item_key": 134240041, 
         "prop_key": "name"
     }, 
+    "-1347621589": {
+        "editor_type": "editor_unit", 
+        "index_type": "object_editor", 
+        "item_key": 134240101, 
+        "prop_key": "name"
+    }, 
     "361570354": {
         "editor_type": "editor_unit", 
         "index_type": "object_editor", 
         "item_key": 134279118, 
         "prop_key": "name"
+    }, 
+    "825323037": {
+        "editor_type": "modifier_all", 
+        "index_type": "object_editor", 
+        "item_key": 134267588, 
+        "prop_key": "desc"
     }, 
     "1387961511": {
         "editor_type": "editor_unit", 
@@ -27,6 +39,12 @@
         "editor_type": "editor_unit", 
         "index_type": "object_editor", 
         "item_key": 134243357, 
+        "prop_key": "name"
+    }, 
+    "2021474984": {
+        "editor_type": "modifier_all", 
+        "index_type": "object_editor", 
+        "item_key": 134267588, 
         "prop_key": "name"
     }
 }

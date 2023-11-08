@@ -58,10 +58,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "common_ability_list": {
-        "__tuple__": true, 
-        "items": []
-    }, 
+    "common_ability_list": [], 
     "common_atk": [
         134228659, 
         1
@@ -187,7 +184,7 @@
     "mp_rec_grow": 2, 
     "name": 1653708009, 
     "need_preview_billboard": false, 
-    "ori_bits": 328, 
+    "ori_bits": 3400, 
     "ori_speed": 2.0, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": {
@@ -282,9 +279,7 @@
     "suffix": "", 
     "tags": {
         "__tuple__": true, 
-        "items": [
-            "\u5730\u9762\u4f4d\u7f6e"
-        ]
+        "items": []
     }, 
     "type": 1, 
     "uid": "134243357", 
