@@ -4,98 +4,137 @@
         "883560449": {
             "action": [
                 {
-                    "action_type": "SEND_CUSTOM_EVENT", 
+                    "action_type": "IF_THEN_ELSE", 
                     "args_list": [
                         {
-                            "arg_type": 100238, 
-                            "args_list": [
-                                1116545898
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100002, 
+                            "arg_type": 100021, 
                             "args_list": [
                                 {
-                                    "arg_type": 100046, 
                                     "args_list": [
-                                        134267588
+                                        {
+                                            "arg_type": 100001, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100002, 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100076, 
+                                                            "args_list": [], 
+                                                            "sub_type": "CUR_MODIFIER"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100003, 
+                                                            "args_list": [
+                                                                "\u7206\u91d1\u5e01\u6570\u91cf"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "sub_type": "GET_INTEGER_KV"
+                                                }
+                                            ], 
+                                            "call_rt_index": 0, 
+                                            "op_arg": [], 
+                                            "op_arg_enable": [], 
+                                            "sub_type": "e77a90407e4011eeb87900ff8e3f2cfc"
+                                        }, 
+                                        {
+                                            "arg_type": 100035, 
+                                            "args_list": [
+                                                "=="
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100001, 
+                                            "args_list": [
+                                                true
+                                            ], 
+                                            "sub_type": 1
+                                        }
                                     ], 
-                                    "sub_type": 1
-                                }, 
-                                {
-                                    "arg_type": 100003, 
-                                    "args_list": [
-                                        "\u91d1\u5e01"
-                                    ], 
-                                    "sub_type": 1
+                                    "condition_type": "BOOL_COMPARE", 
+                                    "element_id": 883560449000028, 
+                                    "enable": true
                                 }
                             ], 
-                            "sub_type": "GET_INTEGER_KV"
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 883560449000005, 
-                    "enable": true
-                }, 
-                {
-                    "action_type": "CREATE_SFX_ON_UNIT_NEW", 
-                    "args_list": [
+                            "sub_type": 1
+                        }, 
                         {
-                            "arg_type": 100066, 
+                            "arg_type": 100022, 
                             "args_list": [
-                                100655
+                                {
+                                    "action_type": "CREATE_SFX_ON_UNIT_NEW", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100066, 
+                                            "args_list": [
+                                                100655
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [], 
+                                            "sub_type": "MODIFIER_OWNER"
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "coin"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 500220, 
+                                            "args_list": [
+                                                2
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100001, 
+                                            "args_list": [
+                                                true
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 883560449000016, 
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null, 
+                                        null, 
+                                        {
+                                            "arg_type": 100001, 
+                                            "args_list": [
+                                                true
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        false, 
+                                        false
+                                    ]
+                                }
                             ], 
                             "sub_type": 1
                         }, 
                         {
-                            "arg_type": 100006, 
+                            "arg_type": 100022, 
                             "args_list": [], 
-                            "sub_type": "MODIFIER_OWNER"
-                        }, 
-                        {
-                            "arg_type": 100003, 
-                            "args_list": [
-                                "coin"
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 500220, 
-                            "args_list": [
-                                2
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100001, 
-                            "args_list": [
-                                true
-                            ], 
                             "sub_type": 1
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 883560449000016, 
+                    "element_id": 883560449000019, 
                     "enable": true, 
-                    "op_arg": [
-                        null, 
-                        null, 
-                        null, 
-                        {
-                            "arg_type": 100001, 
-                            "args_list": [
-                                true
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "op_arg_enable": [
-                        false, 
-                        false, 
-                        false, 
-                        false
-                    ]
+                    "fake_op": []
                 }
             ], 
             "call_enabled": true, 

@@ -21,11 +21,11 @@
     "is_influence_self": true, 
     "key": 134267588, 
     "kv": {
-        "\u91d1\u5e01": {
+        "\u7206\u91d1\u5e01\u6570\u91cf": {
             "annotation": "", 
             "desc": "", 
             "etype": 1, 
-            "key": "\u91d1\u5e01", 
+            "key": "\u7206\u91d1\u5e01\u6570\u91cf", 
             "prop_cls": "PInt", 
             "remark": "", 
             "sort": 0, 

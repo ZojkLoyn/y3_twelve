@@ -81,12 +81,17 @@
         }, 
         "1942495260": {
             "variable_dict": {
+                "BOOLEAN": {
+                    "\u672a\u89e6\u53ca\u91d1\u5e01\u4e0a\u9650": false
+                }, 
                 "INTEGER": {
-                    "\u91d1\u5e01": 0
-                }
+                    "\u6240\u589e\u52a0\u91d1\u5e01": 0
+                }, 
+                "NEW_TIMER": {}
             }, 
             "variable_length_dict": {
-                "\u91d1\u5e01": 0
+                "\u6240\u589e\u52a0\u91d1\u5e01": 0, 
+                "\u672a\u89e6\u53ca\u91d1\u5e01\u4e0a\u9650": 0
             }
         }
     }, 

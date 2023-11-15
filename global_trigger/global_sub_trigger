@@ -2021,17 +2021,258 @@
                 "args_list": [
                     {
                         "arg_type": 100021, 
-                        "args_list": [], 
+                        "args_list": [
+                            {
+                                "args_list": [
+                                    {
+                                        "arg_type": 100002, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "INTEGER", 
+                                                    "\u91d1\u5e01"
+                                                ]
+                                            }
+                                        ], 
+                                        "sub_type": 6
+                                    }, 
+                                    {
+                                        "arg_type": 100015, 
+                                        "args_list": [
+                                            "!="
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100002, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "INTEGER", 
+                                                    "\u91d1\u5e01\u4e0a\u9650"
+                                                ]
+                                            }
+                                        ], 
+                                        "sub_type": 6
+                                    }
+                                ], 
+                                "condition_type": "FLOAT_COMPARE", 
+                                "element_id": 1942495260000007, 
+                                "enable": true
+                            }
+                        ], 
                         "sub_type": 1
                     }, 
                     {
                         "arg_type": 100022, 
-                        "args_list": [], 
+                        "args_list": [
+                            {
+                                "action_type": "SET_VARIABLE", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100030, 
+                                        "args_list": [
+                                            [
+                                                "BOOLEAN", 
+                                                "\u672a\u89e6\u53ca\u91d1\u5e01\u4e0a\u9650", 
+                                                "local"
+                                            ]
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100001, 
+                                        "args_list": [
+                                            true
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1942495260000014, 
+                                "enable": true
+                            }, 
+                            {
+                                "action_type": "SET_VARIABLE", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100030, 
+                                        "args_list": [
+                                            [
+                                                "INTEGER", 
+                                                "\u91d1\u5e01"
+                                            ]
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100002, 
+                                        "args_list": [
+                                            {
+                                                "arg_type": 100002, 
+                                                "args_list": [
+                                                    [
+                                                        "INTEGER", 
+                                                        "\u91d1\u5e01"
+                                                    ]
+                                                ], 
+                                                "sub_type": 6
+                                            }, 
+                                            {
+                                                "arg_type": 100016, 
+                                                "args_list": [
+                                                    "+"
+                                                ], 
+                                                "sub_type": 1
+                                            }, 
+                                            {
+                                                "arg_type": 100002, 
+                                                "args_list": [
+                                                    [
+                                                        "INTEGER", 
+                                                        "\u6240\u589e\u52a0\u91d1\u5e01", 
+                                                        "local"
+                                                    ]
+                                                ], 
+                                                "sub_type": 6
+                                            }
+                                        ], 
+                                        "sub_type": "MATH_OPERATION"
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1942495260000020, 
+                                "enable": true
+                            }, 
+                            {
+                                "action_type": "IF_THEN_ELSE", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100021, 
+                                        "args_list": [
+                                            {
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100002, 
+                                                        "args_list": [
+                                                            [
+                                                                "INTEGER", 
+                                                                "\u91d1\u5e01"
+                                                            ]
+                                                        ], 
+                                                        "sub_type": 6
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100015, 
+                                                        "args_list": [
+                                                            ">"
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100002, 
+                                                        "args_list": [
+                                                            [
+                                                                "INTEGER", 
+                                                                "\u91d1\u5e01\u4e0a\u9650"
+                                                            ]
+                                                        ], 
+                                                        "sub_type": 6
+                                                    }
+                                                ], 
+                                                "condition_type": "FLOAT_COMPARE", 
+                                                "element_id": 1942495260000032, 
+                                                "enable": true
+                                            }
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100022, 
+                                        "args_list": [
+                                            {
+                                                "action_type": "SET_VARIABLE", 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100030, 
+                                                        "args_list": [
+                                                            {
+                                                                "__tuple__": true, 
+                                                                "items": [
+                                                                    "INTEGER", 
+                                                                    "\u91d1\u5e01"
+                                                                ]
+                                                            }
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }, 
+                                                    {
+                                                        "arg_type": 100002, 
+                                                        "args_list": [
+                                                            {
+                                                                "__tuple__": true, 
+                                                                "items": [
+                                                                    "INTEGER", 
+                                                                    "\u91d1\u5e01\u4e0a\u9650"
+                                                                ]
+                                                            }
+                                                        ], 
+                                                        "sub_type": 6
+                                                    }
+                                                ], 
+                                                "bp": false, 
+                                                "element_id": 1942495260000075, 
+                                                "enable": true
+                                            }
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100022, 
+                                        "args_list": [], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1942495260000023, 
+                                "enable": true, 
+                                "fake_op": []
+                            }
+                        ], 
                         "sub_type": 1
                     }, 
                     {
                         "arg_type": 100022, 
-                        "args_list": [], 
+                        "args_list": [
+                            {
+                                "action_type": "SET_VARIABLE", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100030, 
+                                        "args_list": [
+                                            [
+                                                "BOOLEAN", 
+                                                "\u672a\u89e6\u53ca\u91d1\u5e01\u4e0a\u9650", 
+                                                "local"
+                                            ]
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100001, 
+                                        "args_list": [
+                                            false
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1942495260000011, 
+                                "enable": true
+                            }
+                        ], 
                         "sub_type": 1
                     }
                 ], 
@@ -2043,9 +2284,93 @@
                 ]
             }, 
             {
+                "action_type": "DISPLAY_INFO_TO_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            {
+                                "arg_type": 100003, 
+                                "args_list": [
+                                    "\u5f53\u524d\u91d1\u94b1\u4e3a\uff1a"
+                                ], 
+                                "sub_type": 1
+                            }, 
+                            {
+                                "arg_type": 100003, 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100002, 
+                                        "args_list": [
+                                            [
+                                                "INTEGER", 
+                                                "\u91d1\u5e01"
+                                            ]
+                                        ], 
+                                        "sub_type": 6
+                                    }
+                                ], 
+                                "sub_type": "ANY_VAR_TO_STR"
+                            }
+                        ], 
+                        "op_arg": [
+                            null, 
+                            null, 
+                            null, 
+                            null, 
+                            null, 
+                            null, 
+                            null, 
+                            null
+                        ], 
+                        "op_arg_enable": [
+                            false, 
+                            false, 
+                            false, 
+                            false, 
+                            false, 
+                            false, 
+                            false, 
+                            false
+                        ], 
+                        "sub_type": "STR_JOIN"
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1350127621000048, 
+                "enable": true
+            }, 
+            {
                 "action_type": 400342, 
                 "args_list": [
-                    null
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    "BOOLEAN", 
+                                    "\u672a\u89e6\u53ca\u91d1\u5e01\u4e0a\u9650", 
+                                    "local"
+                                ]
+                            }
+                        ], 
+                        "sub_type": "VARIABLE"
+                    }
                 ], 
                 "bp": false, 
                 "element_id": 1942495260000002, 
@@ -2058,14 +2383,14 @@
         "event": [], 
         "func_category": "t_function", 
         "func_comment": "", 
-        "func_des": "\u51fd\u6570\u63cf\u8ff0{\u91d1\u5e01}", 
+        "func_des": "\u7206{\u6240\u589e\u52a0\u91d1\u5e01}\u91d1\u5e01\u80fd\u591f\u7206\u51fa\u4e1c\u897f", 
         "func_id": "e77a90407e4011eeb87900ff8e3f2cfc", 
         "func_name": "\u7206\u91d1\u5e01", 
         "func_param_list": [
             {
                 "__tuple__": true, 
                 "items": [
-                    "\u91d1\u5e01", 
+                    "\u6240\u589e\u52a0\u91d1\u5e01", 
                     true
                 ]
             }
@@ -2086,6 +2411,6 @@
         "p_trigger_id": null, 
         "trigger_id": 1942495260, 
         "trigger_name": "\u7206\u91d1\u5e01", 
-        "valid": false
+        "valid": true
     }
 }
